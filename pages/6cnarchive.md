@@ -1,7 +1,7 @@
 ---
 layout: cndefault
 title: 归档 (含英文博客)
-permalink: /cnarchive/
+permalink: /cnarchive
 ---
 
 ### 归档 (含英文博客)

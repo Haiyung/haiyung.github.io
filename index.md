@@ -4,12 +4,12 @@ title: Hello World
 ---
 
 <article>
-<blockquote><p> 
-Stay hungry. Stay foolish.
-</p></blockquote>
+    <blockquote>
+        <p> Stay hungry. Stay foolish.</p>
+    </blockquote>
 </article>
 
-<p style="margin-top:1.2em;margin-bottom:0;"><b>Blogs</b> | Browse by <a href="/tags">Tags</a></p>
+<p style="margin-top:1.2em;margin-bottom:0;"><b>Blogs</b> | Browse by <a href="/tags/">Tags</a></p>
 <hr>
 <table>
 {% for post in site.categories.en %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive (Chinese Posts Included)
-permalink: /archive/
+permalink: /archive
 ---
 
 ### Archive (Chinese Posts Included)
