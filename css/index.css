@@ -16,7 +16,7 @@ body {
 
 .body-wrapper {
     position: relative;
-    max-width: 68%;
+    max-width: 76rem;
     margin: auto;
     min-height: 100%;
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -28,8 +28,7 @@ body {
 .nav-header {
     padding: 0.2em 3.5vw 0.2em 3.5vw;
     line-height: 1.6;
-    height: 3vw;
-    min-height: 2.2em;
+    height: auto;
     font-size: large;
 }
 
