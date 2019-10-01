@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 你好世界
+title: Hello World
 ---
 
 <article>

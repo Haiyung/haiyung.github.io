@@ -2,14 +2,19 @@
 layout: default
 ---
 <header>
-<h2>{{ page.title }}</h2>
-<p><i>{{ page.date | date: "%b %-d, %Y" }}</i>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h2>{{ page.title }}</h2>
+    <p><i>{{ page.date | date: "%b %-d, %Y" }}</i>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %}
+        • {{ page.meta }}{% endif %}</p>
 </header>
 <article>
-{{content}}
+    {{content}}
 </article>
 <div id="info-bottom">
-<hr>    
-<p>Tags: {% for tag in page.tags %}<block class="tag"><a href="/archive/#{{tag}}">{{ tag }}</a></block>{% endfor %}</p>
-<p><b>Comment</b> by <a href="https://twitter.com/huhaiyung"> 推特 </a> | <a href="https://weibo.com/haiyong520"> 微博 </a></p>
+    <hr>
+    <p>Tags: {% for tag in page.tags %}
+        <block class="tag"><a href="/archive/#{{tag}}">{{ tag }}</a></block>
+        {% endfor %}
+    </p>
+    <p><b>Comment</b> by <a href="https://twitter.com/huhaiyung"> 推特 </a> | <a href="https://weibo.com/haiyong520">
+        微博 </a></p>
 </div>
