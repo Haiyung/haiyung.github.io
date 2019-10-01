@@ -7,6 +7,7 @@
           content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}你好，世界{% endif %}">
     <meta name="keywords" content="{% for tag in page.tags %}{{ tag }}, {% endfor %}{{ site.title }}"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="shortcut icon" href="/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="{{ "
     /css/index.css" | prepend: site.baseurl }}">
 </head>
