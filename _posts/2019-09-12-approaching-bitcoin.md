@@ -92,7 +92,7 @@ __Contents__
 
 就这样，每大约十分钟一个循环，每个循环产生一个数据包（每个数据包都包含近十分钟的所有交易数据），数据包与数据包与相连，事实上，我们称每个数据包为一个区块，区块与区块相连，就是区块链啦，就像 ...
 
-![](../images/blockchain-sketch.jpg)
+![](/images/blockchain-sketch.jpg)
 
 ### 规矩二： 比特币要像央行一样发行货币 -- UTXO（比特币）
 
@@ -156,10 +156,10 @@ UTXO 的英文是 Unspent Transaction Output,中文译为未花费的交易输�
 
 以上关于比特币的相关见解和思考，多来自于对下面这本书的提炼：
 
-![](images/mastering-bitcoin.jpg)
+![](/images/mastering-bitcoin.jpg)
 
 如果你对经济学感兴趣，有一本书也可以推荐给你，作者是一位备受争议的老人、一个经济学家：
 
-![](../images/economics-in-life.jpeg)
+![](/images/economics-in-life.jpeg)
 
 好，谢谢大家。
