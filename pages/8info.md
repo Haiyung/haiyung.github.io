@@ -8,16 +8,16 @@ permalink: /info
 
 #### 搜索 | 社交
 
-Name       | Website            |
-- | - |
-`Google`   | google.com         |
-`百度`      | baidu.com          |
-`微博`      | weibo.com          |
-`维基百科`   | en.wikipedia.org   |
-`YouTube`  | youtube.com        |
-`Twitter`  | twitter.com        |
-`instagram`| instagram.com      |
-`telegram` | telegram.org       |
+Name       | Website            
+:---- | :----
+`Google`   | google.com         
+`百度`      | baidu.com          
+`微博`      | weibo.com          
+`维基百科`   | en.wikipedia.org   
+`YouTube`  | youtube.com        
+`Twitter`  | twitter.com        
+`instagram`| instagram.com      
+`telegram` | telegram.org       
 
 <br>
 
@@ -112,7 +112,7 @@ Name       | Website            |
 
 #### 我正在使用的APP
 
-##### MAC
+##### MAC:
 
 | Name      | Name     | Name    |
 |-----------|----------|----------|
@@ -125,7 +125,7 @@ Name       | Website            |
 | `WeChat` | `iTerm` |`Scratch` |
 | `VSCode` | `Anaconda` |`IntelliJ IDEA` |
 
-##### Android
+##### Android:
 
 | Name      | Name     | Name    |
 |-----------|----------|----------|
