@@ -56,6 +56,7 @@ permalink: /info
 #### 学习型社区
 
 ##### 计算机应用技术
+
 | Name            | Website           |
 | :-------------- | :---------------- |
 | `极客时间`       | time.geekbang.org  |
@@ -64,6 +65,7 @@ permalink: /info
 | `博客园`         | cnblogs.com       |
 
 ##### 社会科学
+
 | Name       | Website        |
 | :--------- | :------------- |
 | `可汗学院`  | khanacademy.org |
