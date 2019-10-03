@@ -18,19 +18,17 @@ permalink: /cnabout
 
 喜欢我的文章的人，可以自愿付费购买。你可以使用以下方式付款（统一 3 元）：
 
-<div id="pay-wrapper">
-    <ol>
-        <li>
-            <p>支付宝：</p>
-            <p>
-                <img src="/images/alipay.png" width="200">
-            </p>
-        </li>
-        <li>
-            <p>微信：</p>
-            <p>
-                <img src="/images/wechat.png" width="200">
-            </p>
+<ol>
+    <li>
+        <p>支付宝：</p>
+        <p>
+            <img src="/images/alipay.png" width="200" id="payment">
+        </p>
     </li>
-    </ol>
-</div>
+    <li>
+        <p>微信：</p>
+        <p>
+            <img src="/images/wechat.png" width="200" id="payment">
+        </p>
+    </li>
+</ol>

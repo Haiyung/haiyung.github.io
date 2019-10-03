@@ -17,19 +17,18 @@ Twitter: [twitter.com/huhaiyung](https://twitter.com/huhaiyung)
 ### Donate a cup of cola
 
 Haiyung wrote this and you think this stuff is worth it, you can buy me a cup of cola in return.
-<div id="pay-wrapper">
-    <ol>
-        <li>
-            <p>Alipay:</p>
-            <p>
-                <img src="/images/alipay.png" width="200">
-            </p>
-        </li>
-        <li>
-            <p>WeChat Pay:</p>
-            <p>
-                <img src="/images/wechat.png" width="200">
-            </p>
+
+<ol>
+    <li>
+        <p>Alipay:</p>
+        <p>
+            <img src="/images/alipay.png" width="200" id="payment">
+        </p>
     </li>
-    </ol>
-</div>
+    <li>
+        <p>WeChat Pay:</p>
+        <p>
+            <img src="/images/wechat.png" width="200" id="payment">
+        </p>
+    </li>
+</ol>
