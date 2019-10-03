@@ -21,13 +21,13 @@ permalink: /cnabout
         <li>
             <p>支付宝：</p>
             <p>
-                <img src="/images/alipay.png">
+                <img src="/images/alipay.png" width="200">
             </p>
         </li>
         <li>
             <p>微信：</p>
             <p>
-                <img src="/images/wechat.png">
+                <img src="/images/wechat.png" width="200">
             </p>
     </li>
     </ol>
