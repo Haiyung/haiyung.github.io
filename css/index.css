@@ -414,7 +414,7 @@ article table thead tr th, article table tbody tr td {
     color: #099;
 }
 
-.pay-wrapper img{
+img{
     display: block;
     box-shadow: 0 0 10px #555;
     border-radius: 6px;
