@@ -56,21 +56,21 @@ permalink: /info
 #### 学习型社区
 
 ##### 计算机应用技术
-| Name       | Website               |
-| :--------- | :-------------------  |
-| `极客时间` | time.geekbang.org       |
-| `Github` | github.com             |
-| `stackoverflow` | stackoverflow.com|
-| `博客园` | cnblogs.com             |
+| Name            | Website           |
+| :-------------- | :---------------- |
+| `极客时间`       | time.geekbang.org  |
+| `Github`        | github.com        |
+| `stackoverflow` | stackoverflow.com |
+| `博客园`         | cnblogs.com       |
 
 ##### 社会科学
 | Name       | Website        |
 | :--------- | :------------- |
-| `可汗学院` | khanacademy.org |
-| `Ted`     | ted.com        |
-| `得到`     | igetget.com    |
-| `混沌大学` | hundun.cn       |
-| `樊登读书会`| dushu.io       |
+| `可汗学院`  | khanacademy.org |
+| `Ted`      | ted.com        |
+| `得到`      | igetget.com    |
+| `混沌大学`  | hundun.cn       |
+| `樊登读书会` | dushu.io       |
 | `看理想APP` | dwz.cn/pTt7DYKE |
 
 <br>
