@@ -8,16 +8,16 @@ permalink: /info
 
 #### 搜索 | 社交
 
-Name       | Website            
-:---- | :----
-`Google`   | google.com         
-`百度`      | baidu.com          
-`微博`      | weibo.com          
-`维基百科`   | en.wikipedia.org   
-`YouTube`  | youtube.com        
-`Twitter`  | twitter.com        
-`instagram`| instagram.com      
-`telegram` | telegram.org       
+| Name       | Website         |
+| :--------- | :-------------- |
+| `Google`   | google.com      |
+| `百度`      | baidu.com       |
+| `微博`      | weibo.com       |
+| `维基百科`   | en.wikipedia.org|
+| `YouTube`  | youtube.com     |
+| `Twitter`  | twitter.com     |
+| `instagram`| instagram.com   |
+| `telegram` | telegram.org    |
 
 <br>
 
