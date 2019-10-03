@@ -8,6 +8,26 @@ permalink: /about
 
 Email: [huhaiyung@gmail.com](mailto:huhaiyung@gmail.com)
 
-### Others
+Twitter: [twitter.com/huhaiyung](https://twitter.com/huhaiyung)
 
-This site is built with [Jekyll](http://jekyllrb.com/) hosted on Github.
+<p>Information Source: <a href="/info">GO!</a></p>
+
+### Donate a cup of cola
+
+Haiyung wrote this and you think this stuff is worth it, you can buy me a cup of cola in return.
+<div id="pay-wrapper">
+    <ol>
+        <li>
+            <p>Alipay:</p>
+            <p>
+                <img src="/images/alipay.png" width="200">
+            </p>
+        </li>
+        <li>
+            <p>WeChat Pay:</p>
+            <p>
+                <img src="/images/wechat.png" width="200">
+            </p>
+    </li>
+    </ol>
+</div>
