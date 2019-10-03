@@ -23,32 +23,32 @@ permalink: /info
 
 #### 新闻
 
-| Name       | Website              |
-|----------  |----------------------|
-| `南华早报`   | scmp.com             |
-| `纽约时报`   | nytimes.com          |
-| `英国卫报`   | theguardian.com      |
+| Name       | Website               |
+| :--------- | :-------------------  |
+| `南华早报`   | scmp.com              |
+| `纽约时报`   | nytimes.com           |
+| `英国卫报`   | theguardian.com       |
 | `科学美国人` | scientificamerican.com|
 | `Medium`   | medium.com            |
 | `Readhub`  | readhub.cn            |
-| `36氪`     | 36kr.com              |
+| `36氪`     | 36kr.com               |
 
 <br>
 
 #### 博客
 
-| Name         | Website              |
-|------------  |----------------------|
-| `阮一峰个人网站`| ruanyifeng.com       |
-| `王垠个人网站` | yinwang.org          |
-| `酷壳网`      | coolshell.cn         |
-| `Derek Sivers`| sivers.org          |
-| `卢昌海个人主页` | changhai.org        |
-| `鸟哥Linux私房菜`| linux.vbird.org    |
+| Name           | Website               |
+| :------------- | :-------------------  |
+| `阮一峰个人网站`  | ruanyifeng.com       |
+| `王垠个人网站`    | yinwang.org          |
+| `酷壳网`        | coolshell.cn         |
+| `Derek Sivers` | sivers.org          |
+| `卢昌海个人主页`  | changhai.org        |
+| `鸟哥Linux私房菜` | linux.vbird.org    |
 | `Evan Osnos`  | dwz.cn/PDPGMnlb     |
 | `持续成长`     | scalerstalk.com      |
-| `黄集伟个人博客`| huangjiwei.com/blog  |
-| `黃簡藝術工作室`| chinese-artists.net/huangjian|
+| `黄集伟个人博客` | huangjiwei.com/blog  |
+| `黃簡藝術工作室` | chinese-artists.net/huangjian |
 | `乐话英文`     | sherrytalk.com       |
 
 <br>
@@ -56,51 +56,52 @@ permalink: /info
 #### 学习型社区
 
 ##### 计算机应用技术
-| Name         | Website            |
-|------------  |--------------------|
-| `极客时间`| time.geekbang.org       |
+| Name       | Website               |
+| :--------- | :-------------------  |
+| `极客时间` | time.geekbang.org       |
 | `Github` | github.com             |
-| `stackoverflow`| stackoverflow.com|
+| `stackoverflow` | stackoverflow.com|
 | `博客园` | cnblogs.com             |
 
 ##### 社会科学
-| Name      | Website        |
-|-----------|----------------|
+| Name       | Website        |
+| :--------- | :------------- |
 | `可汗学院` | khanacademy.org |
 | `Ted`     | ted.com        |
 | `得到`     | igetget.com    |
 | `混沌大学` | hundun.cn       |
 | `樊登读书会`| dushu.io       |
-| `看理想APP` | dwz.cn/pTt7DYKE|
+| `看理想APP` | dwz.cn/pTt7DYKE |
 
 <br>
 
 #### 公众号推荐
-| Name      | Name     | Name    |
-|-----------|----------|---------|
-| `伯凡时间` | `槽边往事` |`连岳` |
-| `大玩家张磊` | `二爷鉴书` |`冯仑风马牛` |
-| `管理的常识` | `小道消息` |`余晟以为` |
-| `六格拉底` | `MacTalk` |`BetterRead` |
-| `持续力` | `人文学会` |`史蒂芬的专栏` |
-| `镓话` | `也谈钱` |`玛丽斯特普` |
-| `看理想` | `caoz的梦呓` |`保守主义评论` |
-| `孟岩` | `嘀嗒嘀嗒` |`keso怎么看` |
-| `地缘分析君` | `菁城子` |`三十三又三分之一` |
-| `刘备教授` | `亦无所知` |`我就BB怎么了` |
-| `大象公会` | `任易` |`学习学习再学习` |
-| `老钱说钱` | `stormzhang` |`歪理邪说` |
-| `青衫磊落` | `香港这样玩` |`熙墨爱经` |
-| `恶魔奶爸` | `路人甲TM` |`笔默练字课堂` |
-| `意外艺术` | `与无聊共勉` |`卓老板聊科技` |
-| `知识分子` | `张昕宇` |`自由市场派` |
+
+| Name       | Name       | Name      |
+| :--------- | :--------- | :-------- |
+| `伯凡时间`  | `槽边往事`   | `连岳`     |
+| `大玩家张磊` | `二爷鉴书` | `冯仑风马牛` |
+| `管理的常识` | `小道消息` | `余晟以为` |
+| `六格拉底` | `MacTalk` | `BetterRead` |
+| `持续力` | `人文学会` | `史蒂芬的专栏` |
+| `镓话` | `也谈钱` | `玛丽斯特普` |
+| `看理想` | `caoz的梦呓` | `保守主义评论` |
+| `孟岩` | `嘀嗒嘀嗒` | `keso怎么看` |
+| `地缘分析君` | `菁城子` | `三十三又三分之一` |
+| `刘备教授` | `亦无所知` | `我就BB怎么了` |
+| `大象公会` | `任易` | `学习学习再学习` |
+| `老钱说钱` | `stormzhang` | `歪理邪说` |
+| `青衫磊落` | `香港这样玩` | `熙墨爱经` |
+| `恶魔奶爸` | `路人甲TM` | `笔默练字课堂` |
+| `意外艺术` | `与无聊共勉` | `卓老板聊科技` |
+| `知识分子` | `张昕宇` | `自由市场派` |
 
 <br>
 
 #### 我正在使用的工具
 
 | Name                 | Website               |
-|--------------------  |-----------------------|
+| :------------------- | :-------------------- |
 | `Google Translate`   | translate.google.com  |
 | `QQ 音乐（我的歌单）`   | dwz.cn/4y4HV5K6       |
 | `库克古典音乐`         | kuke.com              |
@@ -114,34 +115,34 @@ permalink: /info
 
 ##### MAC:
 
-| Name      | Name     | Name    |
-|-----------|----------|----------|
-| `Keynote` | `Dictionary` |`CheatSheet` |
-| `IINA` | `zoom.us` |`Tencent Lemon` |
-| `Kantu` | `Magnet` |`Macs Fan Control` |
-| `截图` | `QQ 音乐` |`One Switch` |
-| `Safari` | `Chrome` |`印象笔记` |
-| `Typora` | `QQ` |`ShadowsocksX-NG` |
-| `WeChat` | `iTerm` |`Scratch` |
-| `VSCode` | `Anaconda` |`IntelliJ IDEA` |
+| Name       | Name         | Name               |
+| :--------- | :----------- | :----------------- |
+| `Keynote`  | `Dictionary` | `CheatSheet`       |
+| `IINA`     | `zoom.us`    | `Tencent Lemon`    |
+| `Kantu`    | `Magnet`     | `Macs Fan Control` |
+| `截图`     | `QQ 音乐`     | `One Switch`       |
+| `Safari`  | `Chrome`     | `印象笔记`           |
+| `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
+| `WeChat`  | `iTerm`      | `Scratch`          |
+| `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
 
 ##### Android:
 
-| Name      | Name     | Name    |
-|-----------|----------|----------|
-| `Twitter` | `SCMP` |`Wikipedia` |
-| `印象笔记` | `Chrome` |`Google Maps` |
-| `Reddit` | `YouTube` |`Google Translate` |
-| `Quora` | `Instagram` |`Pinterest` |
-| `Dribbble` | `Behance` |`Podcasts` |
-| `Houzz` | `Ted` |`Gmail` |
-| `Medium` |`WPS` |`Google Play Store` |
-| `微博` |`高格证券` |`Shadowsocks` |
-| `得到` | `极客时间` | `混沌大学` |
-|`看理想`|`湛庐阅读`|`讯飞输入法` |
-| `TIM` | `微信` | `QQ 音乐` |
-| `饿了么` | `支付宝` | `美团外卖` |
-| `天猫` | `拼多多` | `百度地图` |
-| `京东` | `淘宝` | `Kindle阅读` |
-| `下厨房` | `天眼查` | `且慢投资` |
-| `盖得排行` | `高铁管家` | `孔夫子旧书网` |
+| Name      | Name        | Name              |
+| :-------- | :---------- | :---------------- |
+| `Twitter` | `SCMP`      | `Wikipedia`       |
+| `印象笔记`  | `Chrome`    | `Google Maps`     |
+| `Reddit`  | `YouTube`   | `Google Translate` |
+| `Quora`   | `Instagram` | `Pinterest`        |
+| `Dribbble` | `Behance`  | `Podcasts`         |
+| `Houzz`   | `Ted`       | `Gmail`            |
+| `Medium`  | `WPS`       | `Google Play Store` |
+| `微博`    | `高格证券`    | `Shadowsocks`      |
+| `得到`    | `极客时间`    | `混沌大学`           |
+| `看理想`   | `湛庐阅读`    | `讯飞输入法`         |
+| `TIM`    | `微信`       | `QQ 音乐`           |
+| `饿了么`  | `支付宝`      | `美团外卖`          |
+| `天猫`    | `拼多多`      | `百度地图`          |
+| `京东`    | `淘宝`       | `Kindle阅读`       |
+| `下厨房`   | `天眼查`     | `且慢投资`         |
+| `盖得排行` | `高铁管家`    | `孔夫子旧书网`      |
