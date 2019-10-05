@@ -19,7 +19,11 @@ title: 你好世界
     {% for post in site.categories.cn %}
     <tr id="blog-table">
         <td>{{ post.date | date: "%Y-%m-%d" }}</td>
-        <td><a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+        <td>
+            <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
+                {{ post.title }}
+            </a>
+        </td>
     </tr>
     {% endfor %}
 </table>
