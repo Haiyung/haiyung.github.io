@@ -21,7 +21,7 @@ title: 你好世界
         <td>{{ post.date | date: "%Y-%m-%d" }}</td>
         <td>
             <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
-                {{ post.title }}
+                "{{ post.title }}"
             </a>
         </td>
     </tr>
