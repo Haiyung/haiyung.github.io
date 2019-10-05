@@ -12,7 +12,6 @@ title: 你好世界
 
 <p style="text-align:left;margin-top:1.2em;margin-bottom:0;">
     <b>文章 </b>| 按<a href="/cntags">文章分类</a>浏览 
-    <!--<span style="float:right;">按<a href="/cnarchive#tags">标签</a>浏览</span>-->
 </p>
 ---
 

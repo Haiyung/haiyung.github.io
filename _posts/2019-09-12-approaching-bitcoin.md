@@ -159,13 +159,13 @@ UTXO 的英文是 Unspent Transaction Output,中文译为未花费的交易输�
 以上关于比特币的相关见解和思考，多来自于对下面这本书的提炼：
 
 <p>
-    <img src="/images/mastering-bitcoin.jpg" width="66%">
+    <img src="/images/mastering-bitcoin.jpg" width="36%">
 </p>
 
 如果你对经济学感兴趣，有一本书也可以推荐给你，作者是一位备受争议的老人、一个经济学家：
 
 <p>
-    <img src="/images/economics-in-life.jpeg" width="66%">
+    <img src="/images/economics-in-life.jpeg" width="36%">
 </p>
 
 好，谢谢大家。
