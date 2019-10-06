@@ -31,7 +31,6 @@ permalink: /info
 | `科学美国人` | scientificamerican.com|
 | `Medium`   | medium.com            |
 | `Readhub`  | readhub.cn            |
-| `36氪`     | 36kr.com               |
 
 <br>
 
@@ -105,6 +104,8 @@ permalink: /info
 | Name                 | Website               |
 | :------------------- | :-------------------- |
 | `Google Translate`   | translate.google.com  |
+| `有道`                | youdao.com            |
+| `朗文在线词典`         | ldoceonline.com       |
 | `QQ 音乐（我的歌单）`   | dwz.cn/4y4HV5K6       |
 | `库克古典音乐`         | kuke.com              |
 | `翻墙 - JMS`         | justmysocks1.net      |
@@ -125,7 +126,7 @@ permalink: /info
 | `截图`     | `QQ 音乐`     | `One Switch`       |
 | `Safari`  | `Chrome`     | `印象笔记`           |
 | `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
-| `WeChat`  | `iTerm`      | `Scratch`          |
+| `WeChat`  | `iTerm2`     | `Scratch`          |
 | `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
 
 ##### Android:
@@ -141,10 +142,6 @@ permalink: /info
 | `Medium`  | `WPS`       | `Google Play Store` |
 | `微博`    | `高格证券`    | `Shadowsocks`      |
 | `得到`    | `极客时间`    | `混沌大学`           |
-| `看理想`   | `湛庐阅读`    | `讯飞输入法`         |
+| `看理想`   | `湛庐阅读`    | `盖得排行`         |
 | `TIM`    | `微信`       | `QQ 音乐`           |
-| `饿了么`  | `支付宝`      | `美团外卖`          |
-| `天猫`    | `拼多多`      | `百度地图`          |
-| `京东`    | `淘宝`       | `Kindle阅读`       |
-| `下厨房`   | `天眼查`     | `且慢投资`         |
-| `盖得排行` | `高铁管家`    | `孔夫子旧书网`      |
+| `天眼查`  | `且慢投资`      | `孔夫子旧书网`      |
