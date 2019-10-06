@@ -7,6 +7,5 @@
     <meta name="keywords" content="{% for tag in page.tags %}{{ tag }}, {% endfor %}{{ site.title }}"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="shortcut icon" href="/images/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="{{ "
-    /css/index.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="{{ "/css/index.css" | prepend: site.baseurl }}">
 </head>
