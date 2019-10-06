@@ -13,8 +13,7 @@ title: 你好世界
 <p style="text-align:left;margin-top:1.2em;margin-bottom:0;">
     <b>文章 </b>| 按<a href="/cntags">文章分类</a>浏览 
 </p>
----
-
+<hr>
 <table>
     {% for post in site.categories.cn %}
     <tr id="blog-table">

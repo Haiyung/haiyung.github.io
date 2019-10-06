@@ -1,7 +1,7 @@
 # Site settings
 title: 你好世界
 email: huhaiyung@gmail.com
-description: Haiyung's Blog
+description: Haiyung's Blog | 扈海永 | 你好世界 | 关于世界与市场，关于技术与力量。
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -10,7 +10,7 @@ description: Haiyung's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://unclebob.cn" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
+twitter_username: Haiyung
 github_username:  Haiyung
 permalink: /:year/:month/:day/:title/
 
