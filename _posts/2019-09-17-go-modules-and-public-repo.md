@@ -192,7 +192,6 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
    Go 包管理的前世今生（发布于 2017 年） https://www.infoq.cn/article/history-go-package-management
 
 2. 包管理工具官方汇总 https://github.com/golang/go/wiki/PackageManagementTools
-   Go 依赖包管理工具对比 https://ieevee.com/tech/2017/07/10/go-import.html
 
 3. Go Modules 官方入门教程[英文]
    
@@ -222,6 +221,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
 
 8. 其他中文教程汇总
 
+   - https://ieevee.com/tech/2017/07/10/go-import.html
    - https://lingchao.xin/post/using-go-modules.html
    - http://blog.ipalfish.com/?p=443
    - https://www.w3xue.com/exp/article/20191/18332.html

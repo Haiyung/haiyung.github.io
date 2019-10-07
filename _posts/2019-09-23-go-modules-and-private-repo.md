@@ -145,7 +145,7 @@ project
 执行 go mod edit -replace=haiyung/gomod=./extensions/gomod 时错误信息可见。
 ```
 
-### 参考文档
+### 非必要参考文档
 
 - https://segmentfault.com/a/1190000018414744
 - http://blog.ipalfish.com/?p=443
