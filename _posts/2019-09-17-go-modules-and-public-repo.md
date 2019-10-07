@@ -19,7 +19,7 @@ __Contents__
 
 另外需要注明的是，本文仅针对 go modules 的入门指引。本篇或者本篇内引用的其他作者的文章，都是在基础层面告诉你如何使用 go modules，如何像使用 vendor 一样导入一个放在公共仓库（例如：github）中的包，不涉及私有仓库的讨论。如果你恰好有关于私有包导入方面的疑惑，也许下一章节《go modules 由浅入深非官方手册·下：go modules 与私有包》会给你一点启发。
 
-### 包与 Golang 的包
+### 包与 Golang 包
 
 我们不需要事事亲力亲为。有很多东西，尤其是别人开源出来的代码，我们能直接用就直接用了，一个原因是节省了开发成本，另一个原因是自己写的未必就比人家做出来的强。
 
@@ -39,7 +39,7 @@ Golang、Java 与 python、ruby 导入包的格式略有不同。也许是同为
 
 go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三方包放入项目文件中, 而仅仅在项目中保存一份 "配置文件" 即 go.mod 文件。个人下载项目后, 可以通过配置文件简单、快捷的下载相关依赖至本地。
 
-### 使用前 go modules 的相关配置
+### 使用 go modules 前的相关配置
 
 #### 升级 Golang
 
@@ -96,7 +96,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
    - 关于 go mod edit 的详细用法请参照：go mod help edit
    - 使用 go mod edit 将某包加入至 go modules 管理中时，需要遵循 "语义化版本"，这个版本可以是 github 中的 release tag（如 v3.10.1），也可以是项目的 commit number（如案例中的 "654ae31"），但是不写不行。
 
-3. 将需要的外部包加入到 go modules 中后，你利用该包实现功能，成品如下 ...
+3. 将需要的外部包加入到 go modules 中后，你就可以使用该包了，成品如下 ...
 
    项目结构：
    ```
@@ -192,7 +192,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
    Go 包管理的前世今生（发布于 2017 年） https://www.infoq.cn/article/history-go-package-management
 
 2. 包管理工具官方汇总 https://github.com/golang/go/wiki/PackageManagementTools
-   go 依赖包管理工具对比 https://ieevee.com/tech/2017/07/10/go-import.html
+   Go 依赖包管理工具对比 https://ieevee.com/tech/2017/07/10/go-import.html
 
 3. Go Modules 官方入门教程[英文]
    
