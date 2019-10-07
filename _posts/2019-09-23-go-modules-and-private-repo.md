@@ -65,7 +65,9 @@ go modules 把依赖放到了项目外部，并且直接依赖和间接依赖都
        │   hi.go
    ```
    我遇到的第一个问题是：在 main.go 里如何调用 folder2 包中的实体？
+   
    答：import "project/folder2"
+   
       调用本项目中的实体，仅仅需要以 go mod init {module_name} 时定义的 module_name 开头，并书写出相对路径即可。
 
 2. 私有包放到哪里？
@@ -74,7 +76,7 @@ go modules 把依赖放到了项目外部，并且直接依赖和间接依赖都
    
    我到现在也没有较好的解决方案。听说项目 https://docs.gomods.io/ 正在处理以上的问题,有兴趣的朋友可以尝试一下。
    
-   我最终还是把私有包放入本地中了，那么我的项目结构就成了这样：
+   我最终还是把私有包放入项目内部了，那么我的项目结构就成了这样：
    
    ```
    project
@@ -106,9 +108,9 @@ go modules 把依赖放到了项目外部，并且直接依赖和间接依赖都
    
    当然可以。我们需要告诉 go modules，当拿 beego 包时不要去网络中取，而是直接使用当前项目中的某个目录下的 beego 就行了。有两个步骤：
    
-   1. 先将 go.mod 中的 beego 版本置为 v0.0.0：go mod edit -require=github.com/astaxie/beego@v0.0.0
+   1. 先将 go.mod 中的 beego 版本置为 v0.0.0，这只是为了标记该包为无版本信息的本地包：go mod edit -require=github.com/astaxie/beego@v0.0.0
    
-   2. 再将包转向至本地路径： go mod edit -replace=github.com/astaxie/beego=./extensions/beego
+   2. 再将包转向至本地路径： go mod edit -replace=github.com/astaxie/beego@v0.0.0=./extensions/beego
    
    这样，导入路径不变，还能把私有包转移到项目内部。
    
