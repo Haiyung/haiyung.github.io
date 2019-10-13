@@ -139,7 +139,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
    go get github.com/astaxie/beego: module github.com/astaxie/beego: Get https://proxy.golang.org/github.com/astaxie/beego/@v/list: dial tcp 172.217.24.17:443: i/o timeout
    ```
    
-   你需要配置 GOPROXY： export GOPROXY = https://goproxy.cn/
+   你需要配置 GOPROXY： export GOPROXY=https://goproxy.cn/
    
    配置完成后请验证： echo $GOPROXY
 
