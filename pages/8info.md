@@ -38,7 +38,6 @@ permalink: /info
 
 | Name           | Website               |
 | :------------- | :-------------------  |
-| `阮一峰个人网站`  | ruanyifeng.com       |
 | `王垠个人网站`    | yinwang.org          |
 | `酷壳网`        | coolshell.cn         |
 | `Derek Sivers` | sivers.org          |
@@ -48,7 +47,6 @@ permalink: /info
 | `持续成长`     | scalerstalk.com      |
 | `黄集伟个人博客` | huangjiwei.com/blog  |
 | `黃簡藝術工作室` | chinese-artists.net/huangjian |
-| `乐话英文`     | sherrytalk.com       |
 
 <br>
 
