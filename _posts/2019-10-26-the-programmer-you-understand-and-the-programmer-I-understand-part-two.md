@@ -1,12 +1,14 @@
 ---
-layout: cnpost | post
-title: xxx
-date: 2019-10-01 22:00:00
-categories: cn | en
-tags: English | 社科阅读 | 程序员入门指南 | 计算机应用技术 | 经济与商业 | 个人随想集 | 软件评测 | 
+layout: cnpost
+title: 你所理解的程序员与我所理解的·下
+date: 2019-10-26 12:00:00
+categories: cn
+tags: 程序员入门指南
 --- 
 
 __Contents__
 
 * content
 {:toc}
+
+waiting...
