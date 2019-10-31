@@ -39,11 +39,11 @@ permalink: /info
 | Name           | Website               |
 | :------------- | :-------------------  |
 | `王垠个人网站`    | yinwang.org          |
+| `谢益辉个人网站`  | yihui.name          |
 | `酷壳网`        | coolshell.cn         |
 | `Derek Sivers` | sivers.org          |
 | `卢昌海个人主页`  | changhai.org        |
 | `鸟哥Linux私房菜` | linux.vbird.org    |
-| `Evan Osnos`  | dwz.cn/PDPGMnlb     |
 | `持续成长`     | scalerstalk.com      |
 | `黄集伟个人博客` | huangjiwei.com/blog  |
 | `黃簡藝術工作室` | chinese-artists.net/huangjian |
@@ -56,9 +56,9 @@ permalink: /info
 
 | Name            | Website           |
 | :-------------- | :---------------- |
+| `stackoverflow` | stackoverflow.com |
 | `极客时间`       | time.geekbang.org  |
 | `Github`        | github.com        |
-| `stackoverflow` | stackoverflow.com |
 | `博客园`         | cnblogs.com       |
 
 ##### 社会科学
@@ -102,10 +102,11 @@ permalink: /info
 | Name                 | Website               |
 | :------------------- | :-------------------- |
 | `Google Translate`   | translate.google.com  |
-| `有道`                | youdao.com            |
 | `朗文在线词典`         | ldoceonline.com       |
-| `QQ 音乐（我的歌单）`   | dwz.cn/4y4HV5K6       |
-| `库克古典音乐`         | kuke.com              |
+| `有道翻译`            | youdao.com            |
+| `Spotify`            | spotify.com          |
+| `库克古典音乐`         | kuke.com             |
+| `Google 指数`        | trends.google.com     |
 | `翻墙 - JMS`         | justmysocks1.net      |
 | `翻墙 - Agent`       | agentneo.xyz          |
 | `Windy`             | windy.com             |
@@ -124,7 +125,7 @@ permalink: /info
 | `截图`     | `QQ 音乐`     | `One Switch`       |
 | `Safari`  | `Chrome`     | `印象笔记`           |
 | `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
-| `WeChat`  | `iTerm2`     | `Scratch`          |
+| `WeChat`  | `iTerm2`     | `~~Scratch~~`      |
 | `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
 
 ##### Android:
@@ -132,14 +133,14 @@ permalink: /info
 | Name      | Name        | Name              |
 | :-------- | :---------- | :---------------- |
 | `Twitter` | `SCMP`      | `Wikipedia`       |
-| `印象笔记`  | `Chrome`    | `Google Maps`     |
+| `Ted`     | `Chrome`    | `Google Maps`     |
 | `Reddit`  | `YouTube`   | `Google Translate` |
 | `Quora`   | `Instagram` | `Pinterest`        |
-| `Dribbble` | `Behance`  | `Podcasts`         |
-| `Houzz`   | `Ted`       | `Gmail`            |
-| `Medium`  | `WPS`       | `Google Play Store` |
-| `微博`    | `高格证券`    | `Shadowsocks`      |
+| `Gmail`   | `Behance`  | `Podcasts`         |
+| `Houzz`   | `Dribbble`  | `Google News`    |
+| `Medium`  | `Spotify` | `Google Play Store` |
+| `TIM`    | `WPS`    | `Shadowsocks`      |
 | `得到`    | `极客时间`    | `混沌大学`           |
-| `看理想`   | `湛庐阅读`    | `盖得排行`         |
-| `TIM`    | `微信`       | `QQ 音乐`           |
-| `天眼查`  | `且慢投资`      | `孔夫子旧书网`      |
+| `看理想`   | `湛庐阅读`    | `樊登读书会`         |
+| `微博`    | `微信`       | `印象笔记（高级版）`   |
+| `天眼查`  | `且慢投资`      | `高格证券`      |
