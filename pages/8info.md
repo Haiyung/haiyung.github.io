@@ -122,11 +122,11 @@ permalink: /info
 | `Keynote`  | `Dictionary` | `CheatSheet`       |
 | `IINA`     | `zoom.us`    | `Tencent Lemon`    |
 | `Kantu`    | `Magnet`     | `Macs Fan Control` |
-| `截图`     | `QQ 音乐`     | `One Switch`       |
-| `Safari`  | `Chrome`     | `印象笔记`           |
+| `Safari`   | `Chrome`     | `One Switch`       |
 | `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
 | `WeChat`  | `iTerm2`     | `~~Scratch~~`      |
 | `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
+| `截图`     | `QQ 音乐`    | `印象笔记`           |
 
 ##### Android:
 
