@@ -124,7 +124,7 @@ permalink: /info
 | `Kantu`    | `Magnet`     | `Macs Fan Control` |
 | `Safari`   | `Chrome`     | `One Switch`       |
 | `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
-| `WeChat`  | `iTerm2`     | `~~Scratch~~`      |
+| `WeChat`  | `iTerm2`     | `Scratch`          |
 | `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
 | `截图`     | `QQ 音乐`    | `印象笔记`           |
 
