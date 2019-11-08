@@ -39,13 +39,34 @@ __Contents__
 
 酷壳网作者陈皓老师写过一篇文章《[HELLO WORLD 集中营](https://coolshell.cn/articles/169.html)》,读完以后你就知道，“Hello-World”在我们软件开发者中的地位了。
 
-“Hello-World”是什么呢？它就像我们小时候学习的“1+1=2”一样：
+“Hello-World”是什么呢？就像我们小时候从“Hello, how are you. I'm fine, thank you”开始学起的一样，“Hello-World” 是你通过编程语言向计算机世界说的第一句话：你好，世界。
 
-> 特别简单但又特别关键
+它很简单，但又非常关键。
 
 “Hello-World”是计算机编程语言的入门课，它是发端，是启蒙，是你编程路上的第一个里程碑。
 
+```java
+// Hello World in Java
+class HelloWorld {
+  static public void main( String args[] ) {
+    System.out.println( "Hello World!" );
+  }
+}
+```
 
+```python
+# Hello world in Python 3
+print("Hello World")
+```
+
+```go
+// Hello world in Go
+package main
+import "fmt"
+func main() {
+ fmt.Printf("Hello World\n")
+}
+```
 
 
 
