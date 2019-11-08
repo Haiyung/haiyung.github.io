@@ -48,7 +48,7 @@ __Contents__
 ```java
 // Hello World in Java
 class HelloWorld {
-  static public void main( String args[] ) {
+  static public void main( String[] args ) {
     System.out.println( "Hello World!" );
   }
 }
@@ -64,7 +64,7 @@ print("Hello World")
 package main
 import "fmt"
 func main() {
- fmt.Printf("Hello World\n")
+ fmt.Println("Hello World")
 }
 ```
 
