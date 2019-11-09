@@ -52,7 +52,7 @@ __Contents__
 
 下面我们来看看不同的编程语言是如何跟计算机“打招呼”的。
 
-（以下仅列出常用的编程语言 Java、Python 和 Go 的 “Hello-World”，更多请参见陈皓老师推荐的 [The Hello World Collection](http://helloworldcollection.de/)）
+_（以下仅列出常用的编程语言 Java、Python 和 Go 的 “Hello-World”，更多请参见陈皓老师推荐的 [The Hello World Collection](http://helloworldcollection.de/)）_
 
 ```java
 // Hello World in Java
