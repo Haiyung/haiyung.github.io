@@ -39,11 +39,20 @@ __Contents__
 
 酷壳网作者陈皓老师写过一篇文章《[HELLO WORLD 集中营](https://coolshell.cn/articles/169.html)》,读完以后你就知道，“Hello-World”在我们软件开发者中的地位了。
 
-“Hello-World”是什么呢？就像我们小时候从“Hello, how are you. I'm fine, thank you”开始学起的一样，“Hello-World” 是你通过编程语言向计算机世界说的第一句话：你好，世界。
+“Hello-World”是什么呢？就像我们小时候学习英语从“Hello.How are you.I'm fine,thank you.”开始学起的一样。
 
-它很简单，但又非常关键。
+你首先需要明白的是，计算机编程语言跟汉语、英语、俄语、法语差不太多，本质上都是“交流”的工具，刚才说的几种语言要解决的是“**人与人的交流**”，而编程语言要解决的是“**人与机器的交流**”。
 
-“Hello-World”是计算机编程语言的入门课，它是发端，是启蒙，是你编程路上的第一个里程碑。
+“Hello-World”是你通过某种编程语言向计算机说的第一句话：你好，世界。跟“Hey,guys”差不多。
+
+“Hello-World”很简单，也非常关键。
+
+- 首先，它是你入门计算机编程的第一课，是发端，是启蒙；
+- 其次，它是你编程路上的一个里程碑似的存在，即便 N 年过后，我坚信你依然无法忘记你初试牛刀时的新奇与激动；
+
+下面我们来看看不同的编程语言是如何跟计算机“打招呼”的。
+
+（以下仅列出常用的编程语言 Java、Python 和 Go 的 “Hello-World”，更多请参见陈皓老师推荐的 [The Hello World Collection](http://helloworldcollection.de/)）
 
 ```java
 // Hello World in Java
