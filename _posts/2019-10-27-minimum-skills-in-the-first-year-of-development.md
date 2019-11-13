@@ -217,7 +217,7 @@ if a == 0 {
 我的第一份工作、第一份工作的第一件要处理的问题：就是写正则表达式。
 
 <p>
-    <img src="/images/my_first_programming.png" width="36%">
+    <img src="/images/my_first_programming.png" width="85%">
 </p>
 
 ### 排序和分页
