@@ -10,3 +10,9 @@ __Contents__
 
 * content
 {:toc}
+
+
+-----
+<p>
+    <img src="/images/vue-js-tutorials.jpg" width="36%">
+</p>
