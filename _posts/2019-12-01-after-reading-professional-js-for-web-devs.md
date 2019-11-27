@@ -11,10 +11,6 @@ __Contents__
 * content
 {:toc}
 
-
-
--------
-
 <p>
     <img src="/images/professional-js-for-web-devs.jpg" width="36%">
 </p>
