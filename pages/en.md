@@ -1,5 +1,6 @@
 ---
 layout: en-default
+permalink: /en
 title: Hello-World
 ---
 
