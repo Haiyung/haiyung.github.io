@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: 读《我在西南联大的日子》
 date: 2019-07-06 10:00:00
 categories: cn

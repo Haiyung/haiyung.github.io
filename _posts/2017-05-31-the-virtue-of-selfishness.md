@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: 读《自私的德性》后感
 date: 2017-05-31 19:00:00
 categories: cn

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: 我观电影
 date: 2019-11-30 01:00:00
 categories: cn

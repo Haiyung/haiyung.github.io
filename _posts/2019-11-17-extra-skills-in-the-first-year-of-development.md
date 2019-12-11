@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: 做软件开发的第一年，还需要用到哪些技能（还需要篇）
 date: 2019-11-17 10:00:00
 categories: cn

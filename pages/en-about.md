@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about
+permalink: /en-about
 ---
 
 ### Haiyung 扈海永

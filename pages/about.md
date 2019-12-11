@@ -1,7 +1,7 @@
 ---
-layout: cndefault
+layout: default
 title: 关于
-permalink: /cnabout
+permalink: /about
 ---
 
 ### 扈海永

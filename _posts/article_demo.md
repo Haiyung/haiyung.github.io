@@ -1,5 +1,5 @@
 ---
-layout: cnpost | post
+layout: en-post | post
 title: xxx
 date: 2019-10-01 22:00:00
 categories: cn | en

@@ -1,5 +1,5 @@
 ---
-layout: cnpost
+layout: post
 title: 你所理解的程序员与我所理解的·下
 date: 2019-10-26 12:00:00
 categories: cn
