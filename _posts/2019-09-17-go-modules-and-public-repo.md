@@ -12,6 +12,7 @@ __Contents__
 {:toc}
 
 ### 前言
+你好，我是 Haiyung。
 
 什么是包？什么是包管理工具？包管理工具的作用是什么？与 ruby 的 gem 或 bundler, Java 的 maven, python 的 pip,乃至 ubuntu 的 apt, RedHat 的 yum 是否类似？有哪些异同？Golang 有哪些包管理工具？有何异同？为什么偏要使用 go modules?
 
