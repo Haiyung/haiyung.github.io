@@ -2,6 +2,7 @@
 layout: post
 title: 读 《联想局》有感
 date: 2019-06-22 22:00:00
+author: Haiyung
 categories: cn
 tags: 社科阅读
 --- 

@@ -2,6 +2,7 @@
 layout: post
 title: go modules 由浅入深非官方手册·下：go modules 与私有包
 date: 2019-09-23 15:00:00
+author: Haiyung
 categories: cn
 tags: 计算机应用技术
 --- 

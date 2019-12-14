@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 我观电影
-categories: cn
+date: 2019-11-30 22:00:00
 author: Haiyung
+categories: cn
 tags: 文艺指北
 --- 
 
