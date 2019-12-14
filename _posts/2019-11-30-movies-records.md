@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 我观电影
-date: 2019-11-30 01:00:00
 categories: cn
 tags: 文艺指北
 --- 
+
+<hr>
 
 2006/xx/xx  《泰坦尼克号》
 
