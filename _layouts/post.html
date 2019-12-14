@@ -3,7 +3,7 @@ layout: default
 ---
 <header>
     <h2>{{ page.title }}</h2>
-    <p><i>{{ page.date | date: "%Y-%m-%d" }}</i>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} •
+    <p><i>{% if page.date %} • {{ page.date | date: "%Y-%m-%d" }}{% endif %}</i>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} •
         {{ page.meta }}{% endif %}</p>
 </header>
 <article>

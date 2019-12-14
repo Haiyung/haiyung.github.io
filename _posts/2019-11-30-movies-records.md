@@ -2,6 +2,7 @@
 layout: post
 title: 我观电影
 categories: cn
+author: Haiyung
 tags: 文艺指北
 --- 
 
