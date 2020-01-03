@@ -34,7 +34,7 @@ doAdd(1, 2, 3);
 
 ## 基本类型与引用类型
 
-1。 以下代码的输出值为？
+1。【值传递】以下代码的输出值为？
 
 ```javascript
 var num1 = 5;
@@ -45,7 +45,7 @@ console.log(num2);
 
 答： 在此，num1 中保存的值是 5。当使用 num1 的值来初始化 num2 时， num2 中也保存了值 5，但 num2 中的 5 和 num1 中的 5是完全独立的，该值知识 num1 中 5 的一个副本，此后，这两个变量不会相互影响。
 
-2。 以下代码的输出值为？
+2。【址传递】以下代码的输出值为？
 
 ```javascript
 var obj1 = new Object();
@@ -55,5 +55,54 @@ console.log(obj2.name);
 ```
 
 答： 变量 obj1 保存了一个对象的新实例，然后，这个值被复制到了 obj2 中，此时 obj1 和 obj2 都指向同一个对象，这样，当 obj1 添加了 name 属性后，可以通过 obj2 来访问这个属性，因为这两个变量引用的都是同一个对象。
+
+3。【数组排序】以下代码的输出值为？
+
+```javascript
+var values = [10, 15, 5, 0, 1];
+values.sort();
+alert(values);
+```
+
+答： 0,1,10,15,5。
+
+原因： 数组中有 sort() 方法，默认按升序排列数组项，sort() 方法会调用每隔数组项的 toString() 转型方法，然后比较得到的字符串，以确定如何排序。即时数组中每一项都是数值，sort() 方法比较的也是字符串。
+
+4。【数组重排序】为 sort() 方法写一个比较函数，使得数组 [0, 1, 5, 10, 15] 按照数值大小正确排序。
+
+答： 由于 sort() 方法默认仅会通过测试字符串的结果改变原来的顺序，这在很多情况下并不是我们需要的方案，因此 sort() 方法可以接收一个比较函数作为参数，以便我们指定哪个值位于哪个值的前面。
+
+```javascript
+function compare(value1, value2) {
+    if (value1 < value2) {
+        return -1;
+    } else if (value1 > value2) {
+        return 1;
+    } else {
+        return 0;
+    }
+}
+
+var values = [0, 1, 5, 10, 15];
+values.sort(compare);
+alert(values);
+```
+
+5。【数组迭代】数组迭代的方法有哪些？every()、some()、filter()、map()、forEach()的区别是什么？
+
+答：ES5 为数组定义了 5 个迭代方法，每个方法都接收两个参数：➀要在每一项上运行的参数➁[可选]运行该函数
+
+every()：对数组中的每一项运行给定函数，如果
+
+some()
+
+filter()
+
+map()
+
+forEach()
+
+
+
 
 ## 面向对象
