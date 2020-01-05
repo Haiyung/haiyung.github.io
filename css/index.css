@@ -424,3 +424,18 @@ img {
     margin-bottom: 10px;
     -webkit-box-shadow: 0 0 10px #555;
 }
+
+summary {
+    outline: none;
+    cursor: pointer;
+    box-shadow: none;
+}
+
+pre {
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+}

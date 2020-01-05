@@ -95,10 +95,6 @@ JavaScript 里第一个让我觉得有意思的点是它的变量。如果习惯
 
 JavaScript 面向对象的与众不同，首先就体现在对“对象”的定义上。别人有`属性`和`方法`之分，JS 却似乎并不打算 care 这些区分，一棍子全部打成`名值对`，我理解的 JS 的对象，跟 Java 中的 map 数据类型差不多，你看：
 
-<details>
-
-<summary>JavaScript 中的“名值对”对象</summary>
-
 ```javascript
 var person = {
     name: "Nicholas",
@@ -110,8 +106,6 @@ var person = {
     }
 };
 ```
-
-</details>
 
 JavaScript 面向对象的与众不同，体现在创建对象的方式上。除去通过 Object 构造函数和对象字面量来创建单一对象外，还有 *名字很高端实际就那样* 的“工厂模式”，这些方式并没有什么，Java 里很常见，最让我赞叹的，是它的“构造函数模式”，你看：
 
