@@ -14,6 +14,8 @@ __Contents__
 
 ## 前言
 
+
+
 ## 基本概念
 
 1。typeof 是做什么用的？什么情况下会用到？这反映了 JavaScript 变量的什么特点？
@@ -88,7 +90,7 @@ alert(values);
 <summary>Example Answer</summary>
 <p class="answer">
 答： 0,1,10,15,5。<br>
-
+<br>
 原因： 数组中有 sort() 方法，默认按升序排列数组项，sort() 方法会调用每隔数组项的 toString() 转型方法，然后比较得到的字符串，以确定如何排序。即时数组中每一项都是数值，sort() 方法比较的也是字符串。
 </p>
 </details>
@@ -174,11 +176,81 @@ forEach()：对数组中的每一项运行给定函数。这个方法没有返�
 <details>
 <summary>Example Answer</summary>
 <p class="answer">
-答：this 引用的是函数据以执行的**环境对象**。
+答：this 引用的是函数据以执行的环境对象。
 </p>
 </details>
 
 ## 面向对象
 
 > ECMA-262 把对象定义为：“无序属性的集合，其属性可以包含基本值、对象或者函数。”严格来讲，这就相当于说对象是一组没有特定顺序的值。对象的每个属性或方法都有一个名字，而每个名字都映射到一个值。正因这样，我们可以把 ECMAScript 的对象想象成散列表：无非就是一组名值对。
+
+1。【工厂模式】创建对象有好几种方式，请书写一个工厂模式。
+
+<details>
+<summary>Example Answer</summary>
+<pre class="answer">
+// javascript
+function createPerson(name, age, job) {
+    var o = new Object();
+    o.name = name;
+    o.age = age;
+    o.job = job;
+    o.sayName = function() {
+        alert(this.name);
+    };
+    return o;
+}
+
+var person1 = createPerson("Nicholars", 29, "Software Engineer");
+</pre>
+</details>
+
+2。【工厂模式】使用 Object 构造函数或对象字面量的方式也可以用来创建单个对象，但代码可复用性较差，工厂模式解决了代码复用性的问题，这是它的优点，你能说说它的缺点吗？
+
+<details>
+<summary>Example Answer</summary>
+<p class="answer">
+答：工厂模式虽然解决了创建多个相似对象的问题，但却没有解决对象识别问题，即怎样知道一个对象的类型。<br>
+<br>
+这也是构造函数之所以出现的原因。
+</p>
+</details>
+
+3。【构造函数模式】请书写一个构造函数来创建对象。
+
+<details>
+<summary>Example Answer</summary>
+<pre class="answer">
+// javascript
+function Person(name, age, job) {
+    this.name = name;
+    this.age = age;
+    this.job = job;
+    this.sayName = function() {
+        alert(this.name);
+    };
+}
+
+var person1 = new Person("Nicholars", 29, "Software Engineer");
+</pre>
+</details>
+
+4。【构造函数模式】构造函数的缺点是什么？
+
+<details>
+<summary>Example Answer</summary>
+<p class="answer">
+答：构造函数的主要问题，在于每个方法都要在每个实例上重新创建一遍，假如 Person 构造函数中有个 sayName 的函数，那么此时使用构造函数创建出的每个实例，都要在每个实例上重新创建一遍该方法，每个实例中的方法并不是同一个实例，尽管每个方法的运行机制、逻辑是相同的。这会造成不同的作用域链和标识符解析、资源浪费。<br>
+<br>
+这些问题可以使用原型模式解决。
+</p>
+</details>
+
+
+
+
+
+
+
+
 
