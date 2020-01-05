@@ -107,7 +107,31 @@ var person = {
 };
 ```
 
-JavaScript 面向对象的与众不同，体现在
+JavaScript 面向对象的与众不同，体现在创建对象的方式上。除去通过 Object 构造函数和对象字面量来创建单一对象外，还有 *名字很高端实际就那样* 的“工厂模式”，这些方式并没有什么，Java 里很常见，最让我赞叹的，是它的“构造函数模式”，你看：
+
+```javascript
+function Person(name, age, job) {
+    this.name = name;
+    this.age = age;
+    this.job = job;
+    this.sayName = function() {
+        alert(this.name);
+    }
+}
+
+var person1 = new Person("Nicholas", 29, "Software Engineer")
+var person2 = new Person("Haiyung", 24, "Software Engineer")
+```
+
+一个由 new 操作符调用的普通函数，就生成了一个对象。可是问题在于，函数本身就是一个对象了，是 Function 引用类型的一个对象，这就相当于 new 操作符调用一个对象，结果生成了另一个对象，这让我非常费解。不过我没有追究下去，反正，喏，这就是构造函数：
+
+- 一个普通函数
+- 一个在函数中使用 this 关键字来代替当前函数执行环境的普通函数
+- 一个对外可使用 new 操作符调用，对内使用 this 来代替当前执行环境的普通函数。
+
+
+
+
 
 ## 有意思，很有意思
 
