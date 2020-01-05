@@ -95,6 +95,10 @@ JavaScript 里第一个让我觉得有意思的点是它的变量。如果习惯
 
 JavaScript 面向对象的与众不同，首先就体现在对“对象”的定义上。别人有`属性`和`方法`之分，JS 却似乎并不打算 care 这些区分，一棍子全部打成`名值对`，我理解的 JS 的对象，跟 Java 中的 map 数据类型差不多，你看：
 
+<details>
+
+<summary>JavaScript 中的“名值对”对象</summary>
+
 ```javascript
 var person = {
     name: "Nicholas",
@@ -106,6 +110,8 @@ var person = {
     }
 };
 ```
+
+</details>
 
 JavaScript 面向对象的与众不同，体现在创建对象的方式上。除去通过 Object 构造函数和对象字面量来创建单一对象外，还有 *名字很高端实际就那样* 的“工厂模式”，这些方式并没有什么，Java 里很常见，最让我赞叹的，是它的“构造函数模式”，你看：
 
@@ -125,24 +131,51 @@ var person2 = new Person("Haiyung", 24, "Software Engineer")
 
 一个由 new 操作符调用的普通函数，就生成了一个对象。可是问题在于，函数本身就是一个对象了，是 Function 引用类型的一个对象，这就相当于 new 操作符调用一个对象，结果生成了另一个对象，这让我非常费解。不过我没有追究下去，反正，喏，这就是构造函数：
 
-- 一个普通函数；
-- 一个在函数中使用 this 关键字来代替当前函数执行环境的普通函数；
-- 一个对外可使用 new 操作符调用，对内使用 this 来代替当前执行环境的普通函数；
+- 一个普通函数
+- 一个在函数中使用 this 关键字来代替当前函数执行环境的普通函数
+- 一个对外可使用 new 操作符调用，对内使用 this 来代替当前执行环境的普通函数
 
 JavaScript 面向对象的与众不同，还体现在依靠原型链来实现继承。许多面向对象语言都支持两种继承方式：➀接口继承➁实现继承。接口继承只继承方法签名，但 JavaScript 里面，方法的签名（参数）被数组化，无法实现接口签名，因此 JS 只支持实现继承，并且，主要是依靠`原型链`来实现继承。
 
 我们需要先弄清楚什么是“原型”，才有可能去打“原型链”的主意。
 
-不太严谨的讲，当原型碰到构造函数时才有意义。每一个构造函数都有一个 prototype（原型）属性，这个属性的值是一个对象（原型对象），假设这个对象为 A。
-
-构造函数是专门用来创建对象的函数，使用 new 操作符后跟函数名即可创建一个对象，该对象的原型对象就是 A。
+不太严谨的讲，当原型碰到构造函数时才有意义。每一个构造函数都有一个 prototype（原型）属性，这个属性的值是一个对象（原型对象），假设这个对象为 A。使用 new 操作符后跟构造函数名即可创建一个对象，该对象的原型对象就是 A。
 
 再不太严谨的讲，构造函数就好像是“类”，构造函数中的 prototype 属性就像是“类的继承”，通过构造函数创建的对象需要知道两件事：
 
 1. 我的“类”是谁？ 答：对象中的 `constructor` 属性。
 2. 我继承自谁？ 答：对象中的 `__proto__` 属性。
 
-换算一下你会发现，构造函数的 prototype 属性等于用该构造函数的创建出的对象的 __proto__ 属性。
+你能理出构造函数、原型和对象的关系了吗？
+
+- 每个构造函数都有一个原型对象
+- 每个对象（指由该构造函数创建的对象）都包含一个指向原型对象的内部指针
+
+那么，假如我们让原型对象等于另一个类型的实例，结果会怎么样呢？
+
+```javascript
+function SuperType() {
+    this.property = true;
+}
+
+SuperType.prototype.getSuperValue = function() {
+    return this.property;
+}
+
+function SubType() {
+    this.subproperty = false;
+}
+
+// SubType 要发功开始继承啦...
+SubType.prototype = new SuperType();
+
+SubType.prototype.getValue = function() {
+    return this.subproperty;
+}
+
+var instance = new SubType();
+alert(instance.getSuperValue());
+```
 
 
 
