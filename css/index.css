@@ -431,7 +431,7 @@ summary {
     box-shadow: none;
 }
 
-pre {
+.answer {
     padding: 16px;
     overflow: auto;
     font-size: 85%;

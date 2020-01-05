@@ -18,7 +18,12 @@ __Contents__
 
 1。typeof 是做什么用的？什么情况下会用到？这反映了 JavaScript 变量的什么特点？
 
+<details>
+<summary>Example Answer</summary>
+<p class="answer">
 答： typeof 是用来检测变量的数据类型的。JavaScript 中有 5 种基本数据类型和 1 种复杂数据类型，分别是 Undefined、Null、Boolean、Number、String 和 Object，JS不支持创建自定义类型。更重要的是，JS 的变量是松散类型的，所谓松散类型就是可以用来保存任何类型的数据，鉴于此，当面对一个变量，我们想要获得它的变量类型时，typeof 就派上用场了。
+</p>
+</details>
 
 2。 以下代码是否会报错？为什么？
 
