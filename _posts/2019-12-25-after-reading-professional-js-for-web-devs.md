@@ -93,7 +93,7 @@ JavaScript 里第一个让我觉得有意思的点是它的变量。如果习惯
 
 我们所认为的“传统的、地道的”面向对象首先要有类，“类”就相当于“图纸”，里面定义好你要描述的事物所具有的**属性**和**方法**；接着，通过这“图纸”可以创建出任意多个具有相同属性和方法的“实体”，我们称这“实体”为“对象”。
 
-JavaScript 面向对象的与众不同，首先就体现在对“对象”的定义上。别人有`属性`和`方法`之分，JS 却似乎并不打算 care 这些区分，一棍子全部打成`名值对`，我理解的 JS 的对象，跟 Java 中的 map 数据类型差不多，你看：
+★★★ JavaScript 面向对象的与众不同，首先就体现在对“对象”的定义上。别人有`属性`和`方法`之分，JS 却似乎并不打算 care 这些区分，一棍子全部打成`名值对`，我理解的 JS 的对象，跟 Java 中的 map 数据类型差不多，你看：
 
 ```javascript
 var person = {
@@ -107,7 +107,7 @@ var person = {
 };
 ```
 
-JavaScript 面向对象的与众不同，体现在创建对象的方式上。除去通过 Object 构造函数和对象字面量来创建单一对象外，还有 *名字很高端实际就那样* 的“工厂模式”，这些方式并没有什么，Java 里很常见，最让我赞叹的，是它的“构造函数模式”，你看：
+★★★ JavaScript 面向对象的与众不同，体现在创建对象的方式上。除去通过 Object 构造函数和对象字面量来创建单一对象外，还有 *名字很高端实际就那样* 的“工厂模式”，这些方式并没有什么，Java 里很常见，最让我赞叹的，是它的“构造函数模式”，你看：
 
 ```javascript
 function Person(name, age, job) {
@@ -129,7 +129,7 @@ var person2 = new Person("Haiyung", 24, "Software Engineer")
 - 一个在函数中使用 this 关键字来代替当前函数执行环境的普通函数
 - 一个对外可使用 new 操作符调用，对内使用 this 来代替当前执行环境的普通函数
 
-JavaScript 面向对象的与众不同，还体现在依靠原型链来实现继承。许多面向对象语言都支持两种继承方式：➀接口继承➁实现继承。接口继承只继承方法签名，但 JavaScript 里面，方法的签名（参数）被数组化，无法实现接口签名，因此 JS 只支持实现继承，并且，主要是依靠`原型链`来实现继承。
+★★★ JavaScript 面向对象的与众不同，还体现在依靠原型链来实现继承。许多面向对象语言都支持两种继承方式：➀接口继承➁实现继承。接口继承只继承方法签名，但 JavaScript 里面，方法的签名（参数）被数组化，无法实现接口签名，因此 JS 只支持`实现继承`，并且，主要是依靠`原型链`来实现继承。
 
 我们需要先弄清楚什么是“原型”，才有可能去打“原型链”的主意。
 
@@ -152,10 +152,6 @@ function SuperType() {
     this.property = true;
 }
 
-SuperType.prototype.getSuperValue = function() {
-    return this.property;
-}
-
 function SubType() {
     this.subproperty = false;
 }
@@ -163,15 +159,15 @@ function SubType() {
 // SubType 要发功开始继承啦...
 SubType.prototype = new SuperType();
 
-SubType.prototype.getValue = function() {
-    return this.subproperty;
-}
-
 var instance = new SubType();
-alert(instance.getSuperValue());
+alert(instance.property);
 ```
 
+两个构造函数，各有一个属性。我们给 SubType 换了一个原型对象，这个新原型就是 SuperType 的实例，结果是原来存在于 SuperType 对象中所有的属性、方法，现在可以在 SubType 实例中调用，这，就是继承了。
 
+JavaScript 中继承的原型链指的是什么呢？一个构造函数的原型指向另一个类型的实例，若另一个类型的实例的原型又指向另另一个类型的实例，如此层层递进下去，就构成了实例与原型的链条，这就是所谓的原型链。
+
+蛮抽象，也蛮有意思。本书的第 6 章就着重讲了 JavaScript 的面向对象程序设计，我看了三四遍才刚能捋清了作者的思路，可见天资之差呀 ：(
 
 ## 有意思，很有意思
 
