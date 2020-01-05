@@ -143,40 +143,39 @@ forEach()：对数组中的每一项运行给定函数。这个方法没有返�
 
 <details>
 <summary>Example Answer</summary>
-<pre class="answer">
-答：var someDate = new Date(Date.parse("2020-01-03T23:05:25"));
-
+<p class="answer">
+答：var someDate = new Date(Date.parse("2020-01-03T23:05:25"));<br>
 或：var someDate = new Date(2020, 0, 3, 23, 05, 25);
-</pre>
+</p>
 </details>
 
 7。【Function类型】在 JavaScript 中，一切皆对象，函数实际上也是对象，每个函数都是 Function 类型的实例。在函数内部，有一个特殊的对象：arguments，请谈谈你对这个对象的理解。
 
 <details>
 <summary>Example Answer</summary>
-<pre class="answer">
-答：JavaScript 中的函数不介意传递进来多少个参数，当调用某一个函数时，传递参数多了、少了都无所谓，原因是 JavaScript 中的参数内部是用一个数组来表示的，函数接收到的始终是这个数组，而不关心数组中包含哪些参数，如果这个数组中不包含任何元素，无所谓，如果包含多个元素，也没有问题。
-
+<p class="answer">
+答：JavaScript 中的函数不介意传递进来多少个参数，当调用某一个函数时，传递参数多了、少了都无所谓，原因是 JavaScript 中的参数内部是用一个数组来表示的，函数接收到的始终是这个数组，而不关心数组中包含哪些参数，如果这个数组中不包含任何元素，无所谓，如果包含多个元素，也没有问题。<br>
+<br>
 在函数体内，可以通过 arguments 这个对象来访问这个参数数组。
-</pre>
+</p>
 </details>
 
 8。【Function类型】函数内部的 arguments 对象中有个 callee 的属性，它是做什么的？
 
 <details>
 <summary>Example Answer</summary>
-<pre class="answer">
+<p class="answer">
 答：arguments 中的 callee 属性是一个指针，指向拥有这个 arguments 对象的函数。
-</pre>
+</p>
 </details>
 
 9。【Function类型】函数内部有一个特殊对象 this，你如何理解的 this？
 
 <details>
 <summary>Example Answer</summary>
-<pre class="answer">
+<p class="answer">
 答：this 引用的是函数据以执行的**环境对象**。
-</pre>
+</p>
 </details>
 
 ## 面向对象
