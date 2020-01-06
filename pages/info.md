@@ -97,36 +97,16 @@ permalink: /info
 
 <br>
 
-#### 我正在使用的工具
-
-| Name                 | Website               |
-| :------------------- | :-------------------- |
-| `Google Translate`   | translate.google.com  |
-| `朗文在线词典`         | ldoceonline.com       |
-| `有道翻译`            | youdao.com            |
-| `Spotify`            | spotify.com          |
-| `库克古典音乐`         | kuke.com             |
-| `Google 指数`        | trends.google.com     |
-| `翻墙 - JMS`         | justmysocks1.net      |
-| `翻墙 - Agent`       | agentneo.xyz          |
-| `Windy`             | windy.com             |
-
-<br>
-
 #### 我正在使用的APP
 
 ##### MAC:
 
 | Name       | Name         | Name               |
 | :--------- | :----------- | :----------------- |
-| `Keynote`  | `Dictionary` | `CheatSheet`       |
-| `IINA`     | `zoom.us`    | `Tencent Lemon`    |
-| `Kantu`    | `Magnet`     | `Macs Fan Control` |
-| `Safari`   | `Chrome`     | `One Switch`       |
-| `Typora`  | `QQ`         | `ShadowsocksX-NG`  |
-| `WeChat`  | `iTerm2`     | `Scratch`          |
-| `VSCode`  | `Anaconda`   | `IntelliJ IDEA`    |
-| `截图`     | `QQ 音乐`    | `印象笔记`           |
+| `WeChat`   | `iTerm2`     | `IntelliJ IDEA`    |
+| `VSCode`   | `Chrome`     | `IINA`             |
+| `Keynote`  | `DMagnet`    | `Macs Fan Control` |
+| `Kantu`    | `One Switch` | `ShadowsocksX-NG`  |
 
 ##### Android:
 
