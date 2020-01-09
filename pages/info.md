@@ -26,6 +26,7 @@ permalink: /info
 | Name       | Website               |
 | :--------- | :-------------------  |
 | `南华早报`   | scmp.com              |
+| `连线`      | wired.com             |
 | `纽约时报`   | nytimes.com           |
 | `英国卫报`   | theguardian.com       |
 | `科学美国人` | scientificamerican.com|
@@ -105,8 +106,8 @@ permalink: /info
 | :--------- | :----------- | :----------------- |
 | `WeChat`   | `iTerm2`     | `IntelliJ IDEA`    |
 | `VSCode`   | `Chrome`     | `IINA`             |
-| `Keynote`  | `DMagnet`    | `Macs Fan Control` |
-| `Kantu`    | `One Switch` | `ShadowsocksX-NG`  |
+| `Keynote`  | `Magnet`    | `MacsFanControl` |
+| `Kantu`    | `OneSwitch` | `ShadowsocksX-NG`  |
 
 ##### Android:
 
