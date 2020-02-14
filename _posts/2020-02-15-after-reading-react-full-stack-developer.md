@@ -17,5 +17,5 @@ __Contents__
 附：书籍封面
 
 <p>
-    <img src="/images/" width="36%">
+    <img src="/images/react-full-stack-developer.jpg" width="36%">
 </p>
