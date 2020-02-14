@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 比特币到底是什么？
+title: 走进比特币
 date: 2019-08-30 22:00:00
-author: Haiyung
+author: 扈海永
 categories: cn
 tags: 计算机应用技术
 --- 
@@ -13,7 +13,7 @@ __Contents__
 {:toc}
 
 ### 简介
-你好，我是 Haiyung。
+你好，我是扈海永。
 
 本文是我于 2019 年 9 月 12 日在公司组织的一次有关比特币的分享。
 
