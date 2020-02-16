@@ -11,3 +11,10 @@ __Contents__
 
 * content
 {:toc}
+
+
+附：书籍封面
+
+<p>
+    <img src="/images/one-two-three-infinity.jpg" width="36%">
+</p>
