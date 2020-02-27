@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读《 React 全栈》
+title: 对比阅读《 React 全栈》和《 React 学习手册》
 date: 2020-02-15 22:00:00
 author: Haiyung
 categories: cn
