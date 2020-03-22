@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 归档 (含英文博客)
+layout: archive
+title: 分门别类
 permalink: /archive
 ---
 

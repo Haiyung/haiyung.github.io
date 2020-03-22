@@ -2,8 +2,7 @@
 layout: post
 title: 我观电影（持续更新中...）
 date: 2019-11-30 22:00:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 文艺指北
 --- 
 

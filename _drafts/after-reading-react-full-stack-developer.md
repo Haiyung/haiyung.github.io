@@ -2,8 +2,7 @@
 layout: post
 title: 对比阅读《 React 全栈》和《 React 学习手册》
 date: 2020-02-15 22:00:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 计算机应用技术
 --- 
 

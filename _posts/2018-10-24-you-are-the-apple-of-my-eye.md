@@ -2,8 +2,7 @@
 layout: post
 title: 故乡
 date: 2018-10-24 20:10:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 个人随想集
 --- 
 

@@ -2,8 +2,7 @@
 layout: post
 title: 你所理解的程序员与我所理解的·下
 date: 2019-10-26 12:00:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 程序员入门指南
 --- 
 

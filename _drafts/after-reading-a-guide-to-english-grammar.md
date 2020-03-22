@@ -2,8 +2,7 @@
 layout: post
 title: 读《赖氏经典英语语法》
 date: 2020-02-01 22:00:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 社科阅读
 --- 
 

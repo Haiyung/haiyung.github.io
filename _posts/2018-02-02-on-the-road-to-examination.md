@@ -2,8 +2,7 @@
 layout: post
 title: 古代读书人的考试之路
 date: 2018-02-02 14:03:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 社科阅读
 --- 
 

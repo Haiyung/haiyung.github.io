@@ -2,8 +2,7 @@
 layout: post
 title: 蚊子与人的共同点
 date: 2018-06-15 07:29:00
-author: Haiyung
-categories: cn
+categories: blog-cn
 tags: 个人随想集
 --- 
 

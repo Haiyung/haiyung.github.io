@@ -1,0 +1,146 @@
+.navbar-default {
+    background-color: #fff;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #476C96;
+}
+
+.navbar .navbar-nav > li > a {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 20px 35px 20px 0;
+    color: #737373;
+}
+
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav .bs-active > a {
+    font-weight: 700;
+    color: #246394;
+    background-color: transparent;
+}
+
+.navbar .navbar-header .navbar-toggle:hover,
+.navbar .navbar-header .navbar-toggle:focus {
+    background-color: #f9f9f9;
+    border-color: #f9f9f9;
+}
+
+.container-fluid {
+    margin: 0 10% 0 10%;
+    padding: 0;
+}
+
+.main-default {
+    margin: 38px 10% 2% 10%;
+}
+
+.navbar-brand {
+    font-family: x-locale-heading-primary, Palatino, "Palatino Linotype", x-locale-heading-secondary, serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #476C96!important;
+    padding: 20px 35px 20px 15px;
+    height: 60px;
+}
+
+.topicItem {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 20px 0;
+    position: relative;
+}
+
+.topicItem .article-eyebrow {
+    line-height: 1.5;
+    font-family: Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #414141;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.topicItem .article-title {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    margin: 0;
+    font-family: PingFang SC,Tahoma,Helvetica,Arial,Hiragino Sans GB,Microsoft YaHei,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    font-weight: 400;
+    letter-spacing: .02em;
+}
+
+.topicItem .article-title a {
+    display: block;
+    color: #414141;
+    cursor: pointer;
+}
+
+.topicItem .article-title a:hover {
+    color: #10579e;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar .navbar-header .navbar-toggle {
+        border-color: #fff;
+    }
+
+    .navbar .navbar-header .navbar-toggle:hover,
+    .navbar .navbar-header .navbar-toggle:focus {
+        background-color: #f9f9f9;
+        border-color: #f9f9f9;
+    }
+
+    .navbar .navbar-nav > li > a:hover {
+        background-color: #f9f9f9;
+    }
+
+    .navbar-brand {
+        font-size: 20px;
+    }
+
+    .navbar .navbar-nav > li > a {
+        font-size: 11px;
+        padding: 10px 15px;
+    }
+
+    .container-fluid {
+        margin: 0;
+        padding: 0 15px;
+    }
+
+    .main-default {
+        margin: 20px 0;
+        padding: 0 15px;
+    }
+
+    .topicItem {
+        padding: 10px 0;
+    }
+
+    .topicItem .article-eyebrow {
+        line-height: 1.4;
+        font-size: 10px;
+        letter-spacing: 1px;
+    }
+
+    .topicItem .article-title {
+        line-height: 1.33333;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .topicItem .article-eyebrow {
+        line-height: 1.57143;
+        font-size: 14px;
+        letter-spacing: 1.5px;
+    }
+
+    .topicItem .article-title {
+        line-height: 1.25;
+        font-size: 30px;
+    }
+}

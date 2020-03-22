@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 标签 (含英文博客)
 permalink: /tags
 ---

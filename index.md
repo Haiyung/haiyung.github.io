@@ -1,26 +1,24 @@
 ---
-layout: default
+layout: home
 permalink: /
 title: 你好世界
 ---
 
-<article>
-    <blockquote>
-        <p>拥抱市场，拥抱变化。</p>
-    </blockquote>
-</article>
-
-<p style="text-align:left;margin-top:1.2em;margin-bottom:0;">
-    <b>文章 </b>| 按<a href="/tags">文章分类</a>浏览 
-</p>
-<hr>
-<table>
-    {% for post in site.categories.cn %}
-    <tr id="blog-table">
-        <td>{{ post.date | date: "%Y-%m-%d" }}</td>
-        <td><a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-    </tr>
+<div id="itemList">
+    {% for post in site.posts %}
+        <div class="topicItem">
+            <div class="article-eyebrow">
+                <time class="uni-timesince">
+                    {{ post.date | date: "%Y年%m月%d日" }}
+                </time>
+                /
+                {{ post.tags }}
+            </div>
+            <h2 class="article-title">
+                <a href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+        </div>
     {% endfor %}
-</table>
-<hr>
-<p>博文<a href="/archive">归档</a></p>
+</div>
