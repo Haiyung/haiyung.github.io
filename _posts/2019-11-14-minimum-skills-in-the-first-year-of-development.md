@@ -6,7 +6,7 @@ categories: blog-cn
 tags: 程序员入门指南
 --- 
 
-__Contents__
+<h2>{{ page.title }}</h2>
 
 * content
 {:toc}

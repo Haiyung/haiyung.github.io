@@ -6,13 +6,10 @@ categories: blog-cn
 tags: 计算机应用技术
 --- 
 
-__Contents__
+<h2>{{ page.title }}</h2>
 
 * content
 {:toc}
-
-### 简介
-你好，我是 Haiyung。
 
 2019 年 9 月份，我负责公司 Go 项目包管理工具的迁移工作 -- 从 glide 迁移至 go modules。更换包管理器有以下几个原因：
 

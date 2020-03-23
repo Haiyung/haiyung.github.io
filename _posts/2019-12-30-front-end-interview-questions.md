@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post_special
 title: 《 JavaScript 高级程序设计》中的JS面试题
 date: 2019-12-30 22:00:00
 categories: blog-cn
 tags: 计算机应用技术
 --- 
 
-__Contents__
+<h2>{{ page.title }}</h2>
 
 * content
 {:toc}

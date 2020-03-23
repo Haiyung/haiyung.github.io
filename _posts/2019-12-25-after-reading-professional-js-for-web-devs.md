@@ -6,7 +6,7 @@ categories: blog-cn
 tags: 计算机应用技术
 --- 
 
-__Contents__
+<h2>{{ page.title }}</h2>
 
 * content
 {:toc}

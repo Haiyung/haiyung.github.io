@@ -6,8 +6,6 @@ categories: blog-cn
 tags: 文艺指北
 --- 
 
-<hr>
-
 2006/xx/xx  《泰坦尼克号》
 
 2008/xx/xx  《当幸福来敲门》

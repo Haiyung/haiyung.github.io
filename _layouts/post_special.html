@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+{% include post_special_header.html %}
+
+<body>
+<script>
+    if (/mobile/i.test(navigator.userAgent) || /android/i.test(navigator.userAgent)) {
+        document.body.classList.add('mobile');
+    }
+</script>
+
+<div class="inner">
+    {{ content }}
+</div>
+</body>
+
+</html>
