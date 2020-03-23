@@ -67,6 +67,7 @@
     text-rendering: optimizeLegibility;
     margin: 0;
     font-family: PingFang SC,Tahoma,Helvetica,Arial,Hiragino Sans GB,Microsoft YaHei,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    font-size: 22px;
     font-weight: 400;
     letter-spacing: .02em;
 }
@@ -98,11 +99,11 @@
     }
 
     .navbar-brand {
-        font-size: 20px;
+        font-size: 23px;
     }
 
     .navbar .navbar-nav > li > a {
-        font-size: 11px;
+        font-size: 16px;
         padding: 10px 15px;
     }
 
@@ -128,7 +129,7 @@
 
     .topicItem .article-title {
         line-height: 1.33333;
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
@@ -141,6 +142,6 @@
 
     .topicItem .article-title {
         line-height: 1.25;
-        font-size: 30px;
+        font-size: 26px;
     }
 }
