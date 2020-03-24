@@ -343,7 +343,14 @@ Git 是个性能强大的、分布式的版本管控系统，非常适合团队�
 
 ## Go 语言技术栈
 
-beego/RESTful/kubernetes/docker/grpc/cobra/consul/prometheus
+- beego
+- RESTful
+- kubernetes
+- docker
+- grpc
+- cobra
+- consul
+-prometheus
 
 <br>
 

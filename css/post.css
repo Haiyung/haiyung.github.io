@@ -6,11 +6,9 @@ html {
     -webkit-text-size-adjust: none;
 }
 
-/* reset CSS */
 table {
     font-size: 100%;
 }
-/* end reset CSS */
 
 body {
     font-family:"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
@@ -211,6 +209,21 @@ body.mobile div.ad-banner {
 
 .row {
     clear: both;
+}
+
+summary {
+    outline: none;
+    cursor: pointer;
+    box-shadow: none;
+}
+
+.answer {
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px;
 }
 
 .highlight .hll { background-color: #ffc; }
