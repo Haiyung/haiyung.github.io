@@ -9,6 +9,8 @@ permalink: /:categories/:year/:month/:day/:title
 # Build settings
 markdown: kramdown
 timezone: TIMEZONE
+future: true
 
 twitter_username: Haiyung
 github_username:  Haiyung
+wechat_username: huhaiyung
