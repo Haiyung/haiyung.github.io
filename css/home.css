@@ -83,6 +83,10 @@
     text-decoration: underline;
 }
 
+.archive-content {
+    margin: 38px 10% 2% 10%;
+}
+
 @media screen and (max-width: 768px) {
     .navbar .navbar-header .navbar-toggle {
         border-color: #fff;

@@ -4,9 +4,8 @@ title: 分门别类
 permalink: /archive
 ---
 
-### 归档 (含英文博客)
+Haiyung
 
----
 
 {% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
