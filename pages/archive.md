@@ -4,7 +4,18 @@ title: 分门别类
 permalink: /archive
 ---
 
-Haiyung
+> 关于世界与市场，关于技术与力量。
+
+作者：Haiyung
+
+邮箱：huhaiyung@gmail.com
+
+推特：huhaiyung
+
+微信：huhaiyung
+
+座右铭：
+- 拥抱市场(stay hungry)，拥抱变化(stay foolish)。
 
 
 {% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
