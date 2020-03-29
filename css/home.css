@@ -115,8 +115,13 @@
     margin-top: 40px;
 }
 
-.archive-article-item {
-    margin-bottom: 18px;
+.archive-article-item .item-row {
+    margin-bottom: 12px;
+}
+
+.archive-article-item .item-row svg {
+    margin-left: 0.5em;
+    margin-right: 0.3em;
 }
 
 .archive-article-item a {
