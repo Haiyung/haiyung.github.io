@@ -84,7 +84,65 @@
 }
 
 .archive-content {
-    margin: 38px 10% 2% 10%;
+    margin: 38px 30% 2% 10%;
+}
+
+.archive-author {
+    padding-top: 15px;
+    position: relative;
+    font-size: 16px!important;
+    color: #575757;
+}
+
+.archive-tag-head {
+    height: 36px;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: .5px;
+    color: rgba(0,0,0,.9);
+    display: flex;
+    align-items: center;
+    padding-bottom: 11px;
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 25px;
+}
+
+.archive-tag-head span {
+    margin-left: 8px;
+}
+
+.archive-main {
+    margin-top: 40px;
+}
+
+.archive-article-item {
+    margin-bottom: 18px;
+}
+
+.archive-article-item a {
+    font-size: 16px;
+    color: rgba(0,0,0,.9);
+    line-height: 1.4em;
+    text-decoration: none;
+    margin-right: 15px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.archive-article-item a:hover {
+    color: #10579e;
+    text-decoration: underline;
+}
+
+.archive-article-item .date {
+    font-size: 14px;
+    line-height: 1.4em;
+    color: rgba(0,0,0,.5);
+    display: inline-block;
+}
+
+.archive-bq {
+    margin-top: 40px;
 }
 
 @media screen and (max-width: 768px) {
