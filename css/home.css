@@ -198,6 +198,10 @@
         line-height: 1.33333;
         font-size: 18px;
     }
+
+    .archive-content {
+        margin: 38px 10% 2% 10%;
+    }
 }
 
 @media (min-width: 1024px) {
