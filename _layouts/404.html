@@ -3,8 +3,24 @@
 {% include 404.html %}
 
     <body>
-        <main class="main-default">
+        <main>
             {{ content }}
         </main>
+        <script>
+            window.onload = function(){
+                var div = document.getElementById('autoJump');
+                div.innerHTML = '3 秒后，将自动回到首页';
+                var count = 3;
+                setTimeout(function(){
+                    if(count > 0){
+                        count--;
+                        div.innerHTML = count + ' 秒后，将自动回到首页';
+                        setTimeout(arguments.callee, 1000);
+                    }else{
+                        window.location = '/';
+                    }
+                },1000);
+            }
+        </script>
     </body>
 </html>

@@ -1,0 +1,152 @@
+.main-container {
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%);
+    width: 300px;
+    font-size: 1.6rem;
+    line-height: 1;
+    font-family: PingFang SC,Tahoma,Helvetica,Arial,Hiragino Sans GB,Microsoft YaHei,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+
+.sadFace {
+    width: 120px;
+    height: 120px;
+    margin: 180px auto 0 auto;
+    position: relative;
+}
+
+.face {
+    background-color: #e8eff8;
+    width: 105px;
+    height: 77px;
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.edgeTop {
+    width: 105px;
+    height: 5px;
+    background-color: #5d7a99;
+    position: absolute;
+    top: -5px;
+}
+
+.edgeRight {
+    width: 5px;
+    height: 77px;
+    background-color: #5d7a99;
+    position: absolute;
+    right: -5px;
+}
+
+.edgeBottom {
+    width: 105px;
+    height: 5px;
+    background-color: #5d7a99;
+    position: absolute;
+    bottom: -5px;
+}
+
+.edgeLeft {
+    width: 5px;
+    height: 77px;
+    background-color: #5d7a99;
+    position: absolute;
+    left: -5px;
+}
+
+.eye {
+    width: 5px;
+    height: 10px;
+    background-color: #4a6c8e;
+}
+
+.eyeLeft {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.eyeRight {
+    position: absolute;
+    top: 20%;
+    right: 30%;
+}
+
+.nose {
+    width: 5px;
+    height: 30px;
+    background-color: #4a6c8e;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.nose:before {
+    content: "";
+    width: 5px;
+    height: 5px;
+    background-color: #4a6c8e;
+    position: absolute;
+    bottom: 0;
+    left: -5px;
+}
+
+.mouth {
+    width: 20px;
+    height: 5px;
+    background-color: #4a6c8e;
+    position: absolute;
+    bottom: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.mouth:before {
+    content: "";
+    width: 5px;
+    height: 5px;
+    background-color: #4a6c8e;
+    position: absolute;
+    bottom: -5px;
+    left: -5px;
+}
+
+.mouth:after {
+    content: "";
+    width: 5px;
+    height: 5px;
+    background-color: #4a6c8e;
+    position: absolute;
+    bottom: -5px;
+    right: -5px;
+}
+
+.shadow {
+    width: 105px;
+    height: 10px;
+    background-color: rgba(69,98,137,.1);
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50% 50%;
+}
+
+.main-container .content {
+    margin-top: 54px;
+}
+
+.main-container .content .tip {
+    font-size: 18px;
+    color: rgba(0,0,0,.8);
+    margin-bottom: 14px;
+}
+
+#autoJump {
+    font-size: 16px;
+    color: rgba(0,0,0,.4);
+}
