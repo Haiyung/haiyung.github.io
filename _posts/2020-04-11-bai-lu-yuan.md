@@ -33,5 +33,5 @@ tags: 个人随想集
 电视剧「白鹿原」海报：
 
 <p>
-    <img src="/images/bai-lu-yuan.jpg" width="50%">
+    <img src="/images/bai-lu-yuan.jpg" width="70%">
 </p>
