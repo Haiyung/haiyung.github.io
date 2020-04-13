@@ -9,7 +9,7 @@ published: true
 
 ## 打工者的困境
 
-我看了陈皓写的关于 <a href="https://coolshell.cn/articles/19271.html" target="_blank">要不要996</a> 的问题，陈皓站在从公司和个人的角度分析了996存在的不合理性：
+我看了陈皓写的关于 <a href="https://coolshell.cn/articles/19271.html" target="_blank">要不要996</a> 的问题，陈皓从公司和个人的角度分析了996存在的不合理性：
 
 1. 人一天工作学习的时间是有限的，对于一个有志向的人来说，既然大量的时间花费在事务性的工作上，那么更有价值的业余时间的学习将被压缩。
 
