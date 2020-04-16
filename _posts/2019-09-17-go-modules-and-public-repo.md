@@ -52,7 +52,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
 若你使用的集成开发工具为 Goland 或 IDEA, 请在该项目的 GOPATH 配置中取消选中 "Use GOPATH ..." && "Index ...", 确保本项目不在 GOPATH 列表中:
 
 <p>
-    <img src="/images/go-modules-gopath-settings.jpg" width="36%">
+    <img src="/images/go-modules-gopath-settings.jpg" width="70%">
 </p>
 
 我正在使用的 IDE 是 IntelliJ IDEA 2019.2.2。
@@ -60,7 +60,7 @@ go modules 是个第三方包的管理工具, 它替代了 vendor, 不再把三�
 #### 3.4 配置 IDE 使其支持 go modules
 
 <p>
-    <img src="/images/go-modules-settings.jpg" width="36%">
+    <img src="/images/go-modules-settings.jpg" width="70%">
 </p>
 
 配置 GOPROXY 是为了在获取一些不方便得到的包时使用代理( 例如golang.org/x/... 模块 ),推荐的 GOPROXY 有:
