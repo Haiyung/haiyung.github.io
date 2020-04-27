@@ -4,7 +4,7 @@ baseurl: ""
 author: Haiyung
 email: huhaiyung@gmail.com
 description: 关于世界与市场，关于技术与力量。
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
