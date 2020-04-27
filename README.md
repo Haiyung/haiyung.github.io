@@ -2,7 +2,7 @@
 
 删繁就简，让博客专注于文字
 
-[欢迎访问我的「类极简主义」风格的博客](https://blog.haiyung.cn/) 
+[欢迎访问我的「类·极简主义」风格的博客](https://blog.haiyung.cn/) 
 
 ![](https://blog.haiyung.cn/images/readme-homepage.png)
 
@@ -35,6 +35,6 @@
 
 ## License
 
-Copyright (c) 2019-2020 Haiyung.All rights reserved.
+Copyright (c) 2019-2020 Haiyung. All rights reserved.
 
 Apache License 2.0.
