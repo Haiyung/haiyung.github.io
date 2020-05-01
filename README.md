@@ -1,8 +1,8 @@
-# Haiyung-Blog
+# LAYA-Jekyll-Theme
 
-删繁就简，让博客专注于文字
+> 删繁就简，让博客专注于文字
 
-[欢迎访问我的「类·极简主义」风格的博客](https://blog.haiyung.cn/) 
+欢迎访问我的[博客](https://blog.haiyung.cn/)，你会惊讶她是如此的简洁和优雅。
 
 ![](https://blog.haiyung.cn/images/readme-homepage.png)
 
@@ -10,13 +10,13 @@
 
 #### v2.0
 
-- 目力所及，市面上的博客主题样式仍然太复杂，仍然不够简洁，不够大气。
-- 参照了几个我十分钟爱的 “文字展示类” 的网站：
+- 目力所及，市面上的博客主题样式仍然太复杂、太花里胡哨。
+- 在开发这个主题时，我参照了几个我十分钟爱的 “文字展示类” 网站，它们干净、清爽、美观：
     - [Google blog](https://blog.google/)
     - [Readhub](https://readhub.cn/topics)
     - [yinwang.org](http://yinwang.org/)
-- 它们干净、清爽、美观。我希望我的博客也是这样，让博客专注于文字，是这个博客主题努力做到的事。
-- 欢迎 star，欢迎 fork。
+- 我希望我的博客像上面的网站设计的那样，要极简，要大气，这是本 jekyll 主题努力做的事。
+- 欢迎 star，欢迎 fork。另外如果你关注科技新闻动态，一定不要错过「Readhub」；如果你对技术、生活有更深层次探索的欲望，也请一定锁定「yinwang.org」。谢谢大家。
 
 #### v1.0
 
