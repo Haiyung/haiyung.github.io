@@ -15,7 +15,7 @@
     - [Google blog](https://blog.google/)
     - [Readhub](https://readhub.cn/topics)
     - [yinwang.org](http://yinwang.org/)
-- 我希望我的博客像上面的网站设计的那样，要极简，要大气，这是本 jekyll 主题努力做的事。
+- 我希望我的博客要像上面的网站设计的那样，极简、大气，这是 LAYA 主题努力在做的事。
 - 欢迎 star，欢迎 fork。另外如果你关注科技新闻动态，一定不要错过「Readhub」；如果你对技术、生活有更深层次探索的欲望，也请一定锁定「yinwang.org」。谢谢大家。
 
 #### v1.0
@@ -25,13 +25,13 @@
 
 ## 如何使用
 
+*强烈建议阅读：[Jekyll 中文文档](http://jekyllcn.com/docs/home/)*
+
 第一步： 点击右上角 fork，即拷贝该主题代码到你的账户。
 
 第二步： 更改你的仓库中该项目的名字 haiyung.github.io 为 your_username.github.io。
 
-接下来，你就可以按照我的书写格式写自己的文章啦～～～
-
-建议阅读：[jekyll 中文文档](http://jekyllcn.com/docs/home/)
+接下来，你就可以按照 Jekyll 的标准书写自己的文章啦～～～
 
 ## License
 
