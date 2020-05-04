@@ -150,6 +150,18 @@
     margin-top: 50px;
 }
 
+.footer p {
+    text-align: center;
+}
+
+.footer, .footer a {
+    color: #737373;
+}
+
+.footer a:hover {
+    text-decoration: none;
+}
+
 @media screen and (max-width: 768px) {
     .navbar .navbar-header .navbar-toggle {
         border-color: #fff;

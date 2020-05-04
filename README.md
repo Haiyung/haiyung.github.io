@@ -35,6 +35,4 @@
 
 ## License
 
-Copyright (c) 2019-2020 Haiyung. All rights reserved.
-
-Apache License 2.0.
+Copyright © 2019-2020 Haiyung. All rights reserved. Apache License 2.0.
