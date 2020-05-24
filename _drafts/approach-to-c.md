@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 走进算法
-date: 2020-09-11 22:00:00
+title: 走进 C 语言
+date: 2020-07-01 22:00:00
 categories: blog-cn
 tags: 程序员入门指南
+published: true
 --- 
 
 <h2>{{ page.title }}</h2>
