@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 幽默抄录集
+title: 幽默的幽默抄录集
 date: 2020-10-01 22:00:00
 categories: blog-cn
 tags: 论幽默
