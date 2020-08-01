@@ -6,14 +6,12 @@ categories: blog-cn
 tags: 社科阅读
 --- 
 
-__Contents__
+<h2>{{ page.title }}</h2>
 
 * content
 {:toc}
 
 
-附：书籍封面
+<h3>附：书籍封面</h3>
 
-<p>
-    <img src="/images/one-two-three-infinity.jpg" width="36%">
-</p>
+<img src="/images/one-two-three-infinity.jpg" width="45%">
