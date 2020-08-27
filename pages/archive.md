@@ -11,7 +11,7 @@ permalink: /archive
 
 <p>推特：huhaiyung</p>
 
-<p>邮箱：huhaiyung@gmail.com</p>
+<p>邮箱：huhaiyung@126.com</p>
 </div>
 
 {% for tag in site.tags %}
