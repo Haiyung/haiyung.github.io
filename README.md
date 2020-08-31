@@ -1,4 +1,4 @@
-# LAYA-Jekyll-Theme
+# LAYA-Jekyll-Theme-4-GitHub-Pages
 
 > 删繁就简，让博客专注于文字
 
