@@ -2,9 +2,9 @@
 
 > 删繁就简，让博客专注于文字
 
-欢迎访问我的[博客](https://blog.haiyung.cn/)，你会惊讶她是如此的简洁和优雅。
+欢迎访问我的[博客](https://haiyung.github.io/)，你会惊讶她是如此的简洁和优雅。
 
-![](https://blog.haiyung.cn/images/readme-homepage.png)
+![](https://haiyung.github.io/images/readme-homepage.png)
 
 ## 版本演变
 
