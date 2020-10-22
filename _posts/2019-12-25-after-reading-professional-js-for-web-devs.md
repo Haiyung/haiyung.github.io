@@ -52,7 +52,7 @@ JavaScript 由`Netscape`公司开发，最初的目的是为了解决：在那�
 
 1994 年，该浏览器的核心人物成立商业公司 - - Netscape，并重写 Mosaic 代码，推广商用，后大获成功。
 
-1995 年，Netscape 决定实现一种全新的浏览器脚本语言，用以在浏览器端解决表单的验证问题。详情见 [链接](https://javascript.ruanyifeng.com/introduction/history.html)。
+1995 年，Netscape 决定实现一种全新的浏览器脚本语言，用以在浏览器端解决表单的验证问题。详情见 <a href="https://javascript.ruanyifeng.com/introduction/history.html" target="_blank">链接</a>。
 
 1995 年，微软担心浏览器会威胁到自己的操作系统市场，遂买下 Mosaic 授权，并在此基础上开发了 IE 浏览器，捆绑在 Windows 操作系统上发售。
 

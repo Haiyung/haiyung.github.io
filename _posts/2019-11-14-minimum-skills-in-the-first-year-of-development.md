@@ -39,7 +39,7 @@ tags: 程序员入门指南
 
 ## Hello-World
 
-酷壳网作者陈皓老师写过一篇文章《[HELLO WORLD 集中营](https://coolshell.cn/articles/169.html)》，读完以后你就知道，“Hello-World”在我们软件开发者中的地位了。
+酷壳网作者陈皓老师写过一篇文章《<a href="https://coolshell.cn/articles/169.html" target="_blank">HELLO WORLD 集中营</a>》，读完以后你就知道，“Hello-World”在我们软件开发者中的地位了。
 
 “Hello-World”是什么呢？就像我们小时候学习英语从“Hello.How are you.I'm fine,thank you.”开始学起的一样。
 
@@ -54,7 +54,7 @@ tags: 程序员入门指南
 
 下面我们就来看看不同的编程语言是如何跟计算机“打招呼”的吧。
 
-_（以下仅列出常用的编程语言 Java、Python 和 Go 的 “Hello-World”，更多请参见陈皓老师推荐的 [The Hello World Collection](http://helloworldcollection.de/)）_
+_（以下仅列出常用的编程语言 Java、Python 和 Go 的 “Hello-World”，更多请参见陈皓老师推荐的 <a href="http://helloworldcollection.de" target="_blank">The Hello World Collection</a> )_
 
 ```java
 // Hello World in Java
