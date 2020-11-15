@@ -46,6 +46,6 @@ permalink: /archive
 {% endfor %}
 
 <blockquote class="archive-bq">
-  <p>拥抱市场，拥抱变化。</p>
   <p>Stay hungry. Stay foolish.</p>
+  <p>拥抱市场，拥抱变化。面朝大海，心向未来。</p>
 </blockquote>
