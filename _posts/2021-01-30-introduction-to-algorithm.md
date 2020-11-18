@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 走进算法
-date: 2020-11-30 22:00:00
+date: 2021-01-30 22:00:00
 categories: blog-cn
 tags: 程序员入门指南
 --- 
