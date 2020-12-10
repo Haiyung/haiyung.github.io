@@ -76,7 +76,7 @@ tags: 文艺指北
 
 201x/xx/xx  《心灵捕手》
 
-201x/xx/xx  《El jugador de ajedrez 棋手》
+201x/xx/xx  《El jugador de ajedrez·棋手》
 
 201x/xx/xx  《星际穿越》
 
@@ -195,5 +195,7 @@ tags: 文艺指北
 2020/10/08  《我和我的家乡》
 
 2020/10/27  《智取威虎山·2014》
+
+2020/12/09  《不眠之夜·Sleep No More》
 
 . . .
