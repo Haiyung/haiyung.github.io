@@ -3,7 +3,7 @@ layout: post
 title: 关于赚钱的五个基本问题
 date: 2020-12-12 16:00:00
 categories: blog-cn
-tags: 市场先生
+tags: 赚钱观念指南
 --- 
 
 <h2>{{ page.title }}</h2>
