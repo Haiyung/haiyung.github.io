@@ -1,9 +1,9 @@
 ---
 layout: post
-title: xxx
-date: 2020-10-01 22:00:00
+title: 热情的在优胜劣汰法则下曲折前行
+date: 2021-03-25 19:00:00
 categories: blog-cn
-tags: 社科阅读 | 经济与商业 | 个人随想集 | 论幽默 | 讲故事 | 儿童教育 | 程序员入门指南 | 计算机应用技术 | 软件评测 | 文艺指北 | 市场先生 | 赚钱观念指南 | English
+tags: 个人随想集
 --- 
 
 <h2>{{ page.title }}</h2>
