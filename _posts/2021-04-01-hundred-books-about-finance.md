@@ -78,7 +78,7 @@ Regularly invest a set amount in a particular investment over a long period of t
 
 第二个关键词：Investment(投钱)。
 - 要有智慧找到优秀标的物（财报&&调查）
-- 要有钱（从其他地方赚大钱的能力必不可少，投资只是更有效率的利用你手头上现金的方式）
+- 要有钱（从其他地方赚大钱的能力必不可少，投资首先是为了更有效率的利用你手头上的现金）
 
 第三个关键词：Long Time(长期)。
 - 像个企业家、世家大族一样的，攥住好股票，不轻易撒手；
@@ -86,6 +86,8 @@ Regularly invest a set amount in a particular investment over a long period of t
 <p align="right">2021年03月21日</p>
 
 ## 读《冷眼分享集》· 冯时能著
+
+> 本书文章多写于2007年，十几年过去了，书中的观点仍神采奕奕、满面红光，毫不过时。不禁感慨价值投资的伟大，全文见<a href="/books/冯时能-冷眼分享集.pdf" target="_blank">链接</a>。
 
 摘录：
 
