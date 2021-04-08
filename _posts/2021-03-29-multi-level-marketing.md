@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 传销的“商业逻辑”及其本质
+title: 传销的商业逻辑与活该被打击
 date: 2021-03-29 19:00:00
 categories: blog-cn
 tags: 经济与商业
