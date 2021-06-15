@@ -1,5 +1,5 @@
 # Site settings
-title: 你好世界
+title: Haiyung's Personal Website
 baseurl: ""
 author: Haiyung
 email: huhaiyung@126.com
@@ -12,5 +12,5 @@ timezone: TIMEZONE
 future: true
 
 twitter_username: Haiyung
-github_username:  Haiyung
+github_username: Haiyung
 wechat_username: huhaiyung

@@ -162,29 +162,6 @@
     text-decoration: none;
 }
 
-.gitter-open-chat-button {
-    border-radius: 4px;
-    background: rgba(255,255,255,.7);
-    z-index: 999;
-    float: right;
-    right: 55px;
-    bottom: 10px;
-    height: 40px;
-    width: 40px;
-    cursor: pointer;
-    transition: all .3s ease-in-out;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: unset;
-}
-
-.gitter-open-chat-button:hover {
-    transition: all .3s ease-in-out;
-    background: #fafafa;
-}
-
 @media screen and (max-width: 768px) {
     .navbar .navbar-header .navbar-toggle {
         border-color: #fff;
@@ -236,10 +213,6 @@
 
     .archive-content {
         margin: 38px 5% 38px 5%;
-    }
-
-    .gitter-open-chat-button {
-        right: 18px;
     }
 }
 

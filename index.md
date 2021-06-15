@@ -1,7 +1,7 @@
 ---
 layout: home
+title: Haiyung's Personal Website
 permalink: /
-title: 你好世界
 ---
 
 <div id="itemList">

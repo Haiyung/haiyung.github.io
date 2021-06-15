@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 分门别类
+title: Haiyung's Personal Website
 permalink: /archive
 ---
 
