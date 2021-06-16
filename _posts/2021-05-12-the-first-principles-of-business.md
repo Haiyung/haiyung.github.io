@@ -2,7 +2,7 @@
 layout: post
 title: 浅谈商业的本质
 date: 2021-05-12 11:30:00
-tags: 经济与商业
+tags: 投资与商业
 --- 
 
 <h2>{{ page.title }}</h2>
