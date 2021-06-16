@@ -88,10 +88,53 @@
 }
 
 .archive-author {
-    padding-top: 15px;
+    padding-top: 8px;
+    margin: 0 0 20px;
     position: relative;
     font-size: 16px!important;
     color: #575757;
+}
+
+.archive-buttons {
+    padding-top: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.archive-buttons .archive-sub-button {
+    margin-right: 10px;
+    margin-bottom: 13px;
+}
+
+.archive-sub-button {
+    border: 1px solid #c5c5c5;
+    position: relative;
+    border-radius: 2px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0 18px;
+    cursor: pointer;
+    user-select: none;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: rgba(0,0,0,.9);
+}
+
+
+.archive-sub-button-text {
+    margin-right: 3px;
+    white-space: nowrap;
+}
+
+.archive-sub-button-content{
+    font-size: 14px;
+    color: rgba(0,0,0,.5);
+    white-space: nowrap;
 }
 
 .archive-tag-head {
@@ -112,7 +155,7 @@
 }
 
 .archive-main {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .archive-article-item .item-row {
