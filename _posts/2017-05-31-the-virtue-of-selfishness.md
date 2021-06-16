@@ -2,9 +2,7 @@
 layout: post
 title: 读《自私的德性》后感
 date: 2017-05-31 19:00:00
-categories: blog-cn
 tags: 社科阅读
-published: true
 --- 
 
 ## 读《自私的德性》后感

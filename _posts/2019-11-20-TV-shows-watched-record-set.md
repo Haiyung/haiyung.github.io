@@ -2,7 +2,6 @@
 layout: post
 title: 追剧记录（持续更新中...）
 date: 2019-11-20 22:00:00
-categories: blog-cn
 tags: 文艺指北
 --- 
 

@@ -2,7 +2,6 @@
 layout: post
 title: 面向未来“编程”
 date: 2021-06-04 19:00:00
-categories: blog-cn
 tags: 个人随想集
 
 --- 

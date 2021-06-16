@@ -2,9 +2,7 @@
 layout: post
 title: 我终于找到形容我们教育事业的好例子
 date: 2020-03-26 21:00:00
-categories: blog-cn
 tags: 个人随想集
-published: true
 --- 
 
 ## 我终于找到形容我们教育事业的好例子

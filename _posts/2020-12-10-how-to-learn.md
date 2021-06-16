@@ -2,7 +2,6 @@
 layout: post
 title: 自学/自我教育，是最最昂贵的教育
 date: 2020-12-10 23:59:00
-categories: blog-cn
 tags: 个人随想集
 --- 
 

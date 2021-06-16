@@ -2,7 +2,6 @@
 layout: post
 title: 财经一百共读营①
 date: 2021-04-01 22:00:00
-categories: blog-cn
 tags: 经济与商业
 --- 
 

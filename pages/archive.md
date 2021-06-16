@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Haiyung's Personal Website
+title: Archive - Haiyung's Personal Website
 permalink: /archive
 ---
 

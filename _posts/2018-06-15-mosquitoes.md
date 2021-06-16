@@ -2,9 +2,7 @@
 layout: post
 title: 蚊虫与人
 date: 2018-06-15 07:29:00
-categories: blog-cn
 tags: 个人随想集
-published: false
 --- 
 
 ## 蚊虫与人

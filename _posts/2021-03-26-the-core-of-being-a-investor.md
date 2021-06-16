@@ -2,7 +2,6 @@
 layout: post
 title: 投资的本质
 date: 2021-03-26 17:00:00
-categories: blog-cn
 tags: 经济与商业
 --- 
 

@@ -1,16 +1,14 @@
 # Site settings
 title: Haiyung's Personal Website
-baseurl: ""
 author: Haiyung
 email: huhaiyung@126.com
 description: 关于世界与市场，关于技术与力量。
-permalink: /:year/:month/:day/:title.html
+permalink: /:title
 
 # Build settings
 markdown: kramdown
-timezone: TIMEZONE
-future: true
+timezone: CN
 
-twitter_username: Haiyung
+twitter_username: huhaiyung
 github_username: Haiyung
 wechat_username: huhaiyung

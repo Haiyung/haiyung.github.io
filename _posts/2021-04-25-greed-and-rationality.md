@@ -2,7 +2,6 @@
 layout: post
 title: 贪婪与理性
 date: 2021-04-25 15:30:00
-categories: blog-cn
 tags: 个人随想集
 --- 
 

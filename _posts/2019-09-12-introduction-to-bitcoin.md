@@ -2,7 +2,6 @@
 layout: post
 title: 走进比特币
 date: 2019-08-30 22:00:00
-categories: blog-cn
 tags: 计算机应用技术
 --- 
 

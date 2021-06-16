@@ -2,9 +2,7 @@
 layout: post
 title: 读《三体》
 date: 2017-11-25 20:00:00
-categories: blog-cn
 tags: 社科阅读
-published: true
 --- 
 
 ## 读《三体》

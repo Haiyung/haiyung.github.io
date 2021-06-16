@@ -2,9 +2,7 @@
 layout: post
 title: 我看到了电视剧「白鹿原」的第53集
 date: 2020-04-11 22:00:00
-categories: blog-cn
 tags: 个人随想集
-published: false
 --- 
 
 <h2>{{ page.title }}</h2>

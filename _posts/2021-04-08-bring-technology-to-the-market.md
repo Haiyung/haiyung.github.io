@@ -2,7 +2,6 @@
 layout: post
 title: 技术没有议价权
 date: 2021-04-08 21:40:00
-categories: blog-cn
 tags: 个人随想集
 --- 
 

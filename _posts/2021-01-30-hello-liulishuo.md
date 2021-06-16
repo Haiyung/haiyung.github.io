@@ -2,7 +2,6 @@
 layout: post
 title: 印象流利说
 date: 2021-01-30 11:30:56
-categories: blog-cn
 tags: 个人随想集
 --- 
 

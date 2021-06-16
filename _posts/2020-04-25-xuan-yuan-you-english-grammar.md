@@ -2,7 +2,6 @@
 layout: post
 title: 粗读《旋元佑语法俱乐部》
 date: 2020-04-25 22:00:00
-categories: blog-cn
 tags: 社科阅读
 --- 
 

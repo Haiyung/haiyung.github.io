@@ -2,7 +2,6 @@
 layout: post
 title: 行走软件江湖两年记
 date: 2020-11-18 09:00:00
-categories: blog-cn
 tags: 程序员入门指南
 --- 
 

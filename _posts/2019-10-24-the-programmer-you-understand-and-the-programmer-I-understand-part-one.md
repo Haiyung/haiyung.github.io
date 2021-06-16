@@ -2,7 +2,6 @@
 layout: post
 title: 你所理解的程序员与我所理解的·上
 date: 2019-10-24 23:00:00
-categories: blog-cn
 tags: 程序员入门指南
 --- 
 

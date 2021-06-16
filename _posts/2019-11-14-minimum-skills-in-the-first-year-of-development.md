@@ -2,7 +2,6 @@
 layout: post
 title: 做软件开发的第一年，最少用到哪些技能（最少篇）
 date: 2019-11-14 23:59:00
-categories: blog-cn
 tags: 程序员入门指南
 --- 
 

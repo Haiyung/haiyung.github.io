@@ -2,7 +2,6 @@
 layout: post
 title: 活在当下与富不起来
 date: 2020-11-20 12:30:00
-categories: blog-cn
 tags: 赚钱观念指南
 --- 
 

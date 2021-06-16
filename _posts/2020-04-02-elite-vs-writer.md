@@ -2,9 +2,7 @@
 layout: post
 title: 学历精英当不了作家
 date: 2020-04-02 21:00:00
-categories: blog-cn
 tags: 个人随想集
-published: true
 --- 
 
 <h2>{{ page.title }}</h2>

@@ -2,7 +2,6 @@
 layout: post
 title: 演讲的修炼
 date: 2020-10-27 12:30:00
-categories: blog-cn
 tags: 个人随想集
 --- 
 
