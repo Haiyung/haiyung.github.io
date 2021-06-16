@@ -98,6 +98,12 @@ Regularly invest a set amount in a particular investment over a long period of t
 
 <p align="right">2021年04月06日</p>
 
+## 读《有知有行·投资第一课》· 孟岩、张潇雨联合撰写 
+
+> 本课程十六讲，均由投资者教育团队“有知有行”创始人孟岩、张潇雨撰写。文章真诚、通俗易懂、语重心长，是绝佳的投资入门读物。目前，该课程免费发布在“有知有行”团队官网上：<a href="https://youzhiyouxing.cn/curriculum" target="_blank">链接</a>
+
+<p align="right">2021年06月17日</p>
+
 ## 读《手把手教你读财报①》· 唐朝著
 
 2020年7月至10月，由于贸然离职且并不着急找工作，我在没有任何收入的情况下，花钱仍不节制，导致10月末正式破产，尚欠债两万余元，始知柴米油盐，始知现金流、收入、毛利润、净利润的重要，始知财产与财富的伟大。
