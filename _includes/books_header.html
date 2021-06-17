@@ -1,13 +1,17 @@
 <head>
+    <link rel="shortcut icon" href="/images/favicon.ico">
     <title>{% if page.title %}{{ page.title }}{% else %}Haiyung's Personal Website{% endif %}</title>
     <style type="text/css">
-        .name,
-        .mtime {
-            text-align: left;
+        h1 {
+            margin-top: 10px;
+            border-bottom: 1px solid #c0c0c0;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            white-space: nowrap;
         }
 
-        .size {
-            text-align: right;
+        table {
+            border-collapse: collapse;
         }
 
         td {
@@ -16,12 +20,24 @@
             overflow: hidden;
         }
 
-        table {
-            border-collapse: collapse;
+        td.detailsColumn {
+            -webkit-padding-start: 2em;
+            text-align: end;
+            white-space: nowrap;
         }
 
-        tr th {
-            border-bottom: 2px groove;
+        a.icon {
+            -webkit-padding-start: 1.5em;
+            text-decoration: none;
+            user-select: auto;
+        }
+
+        a.icon:hover {
+            text-decoration: underline;
+        }
+
+        a.file {
+            background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC ") left top no-repeat;
         }
     </style>
 </head>

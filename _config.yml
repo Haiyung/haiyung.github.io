@@ -7,8 +7,14 @@ permalink: /:title
 
 # Build settings
 markdown: kramdown
-timezone: CN
+timezone: Asia/Shanghai
 
 twitter_username: huhaiyung
 github_username: Haiyung
 wechat_username: huhaiyung
+
+defaults:
+- scope:
+    path: "books"
+  values:
+    pdf: true
