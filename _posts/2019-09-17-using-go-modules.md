@@ -1,7 +1,7 @@
 ---
 layout: post
 title: go modules 由浅入深非官方手册·上：go modules 与公有包
-date: 2019-09-17 10:00:00
+date: 2019-09-17 10:00:00 +0800
 tags: 计算机应用技术
 --- 
 

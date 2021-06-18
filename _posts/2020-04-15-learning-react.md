@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FROM《 React 全栈》TO《 React 学习手册》
-date: 2020-04-15 22:00:00
+date: 2020-04-15 22:00:00 +0800
 tags: 计算机应用技术
 --- 
 

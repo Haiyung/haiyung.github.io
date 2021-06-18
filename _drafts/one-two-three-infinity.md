@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读《从一到无穷大》
-date: 2020-04-01 22:00:00
+date: 2020-04-01 22:00:00 +0800
 categories: blog-cn
 tags: 社科阅读
 --- 
