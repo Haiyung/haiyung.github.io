@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 财经一百共读营①
-date: 2021-06-17 22:00:00 +0800
+date: 2021-06-18 12:00:00 +0800
 tags: 投资与商业
 --- 
 
@@ -103,6 +103,12 @@ Regularly invest a set amount in a particular investment over a long period of t
 > 本课程十六讲，均由投资者教育团队“有知有行”创始人孟岩、张潇雨撰写。文章真诚、通俗易懂、语重心长，是绝佳的投资入门读物。目前，该课程免费发布在“有知有行”团队官网上：<a href="https://youzhiyouxing.cn/curriculum" target="_blank">链接</a>
 
 <p align="right">2021年06月17日</p>
+
+## 读《E大干货合集》· ETF拯救世界撰写
+
+> E大（ETF拯救世界）是长赢计划和网格策略的主理人，该合集是E大投资文章的内容精选，约八十篇。文字凝练幽默，逻辑严密。目前，该课程免费发布在“有知有行”团队官网上：<a href="https://youzhiyouxing.cn/topics/ezone/" target="_blank">链接</a>
+
+<p align="right">2021年06月18日</p>
 
 ## 读《手把手教你读财报①》· 唐朝著
 
