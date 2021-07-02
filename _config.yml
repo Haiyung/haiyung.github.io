@@ -8,13 +8,14 @@ permalink: /:title
 # Build settings
 markdown: kramdown
 timezone: Asia/Shanghai
+future: true
 
 twitter_username: huhaiyung
 github_username: Haiyung
 wechat_username: huhaiyung
 
 defaults:
-- scope:
-    path: "books"
-  values:
-    pdf: true
+  - scope:
+      path: "books"
+    values:
+      pdf: true
