@@ -86,7 +86,7 @@ Regularly invest a set amount in a particular investment over a long period of t
 
 ## 读《冷眼分享集》· 冯时能著
 
-> 本书文章多写于2007年，十几年过去了，书中的观点仍神采奕奕、满面红光，毫不过时。不禁感慨价值投资的伟大，全文见<a href="/books/冯时能-冷眼分享集.pdf" target="_blank">链接</a>。
+> 本书文章多写于2007年，十几年过去了，书中的观点仍神采奕奕、满面红光，毫不过时。不禁感慨价值投资的伟大，全文见<a href="/books/冷眼分享集-冯时能.pdf" target="_blank">链接</a>。
 
 摘录：
 

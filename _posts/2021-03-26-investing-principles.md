@@ -31,6 +31,6 @@ tags: 投资与商业
 
 ## 参考
 
-1 . 文章《为什么不能等三年？》出自冯时能-<a href="/books/冯时能-冷眼分享集.pdf" target="_blank">冷眼分享集</a>
+1 . 文章《为什么不能等三年？》出自冯时能-<a href="/books/冷眼分享集-冯时能.pdf" target="_blank">冷眼分享集</a>
 
-2 . 系列文章《定投标的的选择》出自李笑来-<a href="/books/on-regularinvesting-cn.pdf" target="_blank">定投改变命运</a>
+2 . 系列文章《定投标的的选择》出自李笑来-<a href="/books/OnRegularInvesting-LiXiaolai.pdf" target="_blank">定投改变命运</a>
