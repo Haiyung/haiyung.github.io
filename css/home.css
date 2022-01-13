@@ -209,6 +209,27 @@ body {
     text-decoration: none;
 }
 
+.archived {
+    margin-top: -1px;
+    background-image: linear-gradient(#ddf4ff, #ddf4ff);
+    border-color:rgba(84, 174, 255, 0.4);
+
+    position: relative;
+    padding: 20px 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+
+    font-weight: 600 !important;
+    text-align: center !important;
+
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+
+    border-top: 0 !important;
+}
+
+
 @media screen and (max-width: 768px) {
     .navbar .navbar-header .navbar-toggle {
         border-color: #fff;
