@@ -1,7 +1,7 @@
 # Site settings
 title: Haiyung's Personal Website
 author: Haiyung
-email: huhaiyung@126.com
+email: hhyplus@163.com
 description: 关于世界与市场，关于技术与力量。
 permalink: /:title
 
@@ -10,9 +10,8 @@ markdown: kramdown
 timezone: Asia/Shanghai
 future: true
 
-twitter_username: huhaiyung
+twitter_username: hhyplus
 github_username: Haiyung
-wechat_username: huhaiyung
 
 defaults:
   - scope:

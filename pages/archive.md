@@ -9,9 +9,9 @@ permalink: /archive
 <div class="archive-author">
 <p>作者：Haiyung</p>
 
-<p>推特：huhaiyung</p>
+<p>推特：hhyplus</p>
 
-<p>邮箱：huhaiyung@126.com</p>
+<p>邮箱：hhyplus@163.com</p>
 </div>
 
 <div class="archive-buttons">
