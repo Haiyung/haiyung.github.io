@@ -65,6 +65,10 @@ AQI  366   Heavily Heavily Heavily Heavily Heavily Heavily Polluted
 1. 一：你就支持一下正版呗。
 2. 二：Welcome to google. 即使不太好看懂，你再坚持一下，会越来越舒服。
 
+此致
+
+敬礼
+
 2016年11月14日
 
 凌晨1点49分完稿
